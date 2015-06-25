@@ -1,6 +1,6 @@
 # English Style Guide
 
-This is an English style guide that we should follow to stay consistent for how we refer to common things in tutorials.
+This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
 
 In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those.
 
@@ -53,7 +53,7 @@ Capitalize when referring to a specific inspector in Xcode; e.g., _Attributes In
 **Interface Builder**
 
 **interface controller**
-Use lowercase, even when referring a specific, named instance such as _the `GroceryList` interface controller._
+Use lowercase, even when referring a specific, named instance such as _the_ `GroceryList` _interface controller._
 
 **iOS 7, iOS 8**
 Not _iOS7_ or _iOS8_.
@@ -91,8 +91,8 @@ Not _OSX_.
 **simulator**
 _iOS Simulator_ is a simulator app. Generally speaking, use lowercase _simulator_ unless you omit the article:
 
-_Correct:_ run in the simulator
-_Correct:_ run in iOS Simulator _(note lack of article)_
+_Correct:_ run in the simulator  
+_Correct:_ run in iOS Simulator _(note lack of article)_  
 _Incorrect_: run in the Simulator
 
 It's OK to both use an article and capitalize _Simulator_ if you are using it as an attributive noun:
@@ -106,17 +106,17 @@ _Correct:_ close the Simulator window
 **terminal**
 OS X includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
-_Correct:_ close the terminal
-_Correct:_ open a terminal window
-_Correct:_ use the terminal command
-_Correct:_ enter the following command into Terminal _(note lack of article)_
-_Correct:_ open Terminal _(note lack of article)_
+_Correct:_ close the terminal  
+_Correct:_ open a terminal window  
+_Correct:_ use the terminal command  
+_Correct:_ enter the following command into Terminal _(note lack of article)_  
+_Correct:_ open Terminal _(note lack of article)_  
 _Incorrect:_ open the Terminal
 
 It's OK to both use an article and capitalize _Terminal_ if you are using it as an attributive noun: 
 
-_Correct:_ open a Terminal window
-_Correct:_ use the Terminal command
+_Correct:_ open a Terminal window  
+_Correct:_ use the Terminal command  
 _Correct:_ open the Terminal application
 
 **view controller**
@@ -169,18 +169,18 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 * _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns.</li>
 
-* _Placement:_ Insert when the subject moves from one point to another; more is usually better than less. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then 17 H3 headings for the rest of the article.</li>
+* _Placement:_ Insert when the subject moves from one point to another; more is usually better than less. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
 
 
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 
-`nil`
-`if` statement
-`while` loop
-`if-else`
-`Int`
-`enum`
+`nil`  
+`if` statement  
+`while` loop  
+`if-else`  
+`Int`  
+`enum`  
 `switch` statement
 
 **lists**
@@ -199,7 +199,7 @@ _Examples:_ 10; 25,000; 30%; divide 15 by 3; Chapter 6; Highway 4; Room 2.
 
 Numbers in series should be consistent.
 
-_Example:_ She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.
+_Example:_ She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.  
 _Example:_ The final score was 13-1 _OR_ The final score was thirteen to one.
 
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
