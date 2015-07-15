@@ -2,9 +2,9 @@
 
 This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
 
-In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those.
+In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those. The guide also covers terms used within Unity tutorials.
 
-##Terms and Capitalization
+##iOS Terms and Capitalization
 
 _Capitalize and style terms as below._
 
@@ -209,3 +209,52 @@ Punctuation not essential to a quote should be placed outside of the quotes (Bri
 
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
+
+## Unity Terms and Capitalization
+
+_Capitalize and style terms as below._
+
+Animator
+
+Animation View
+
+Component
+
+Coroutine
+
+Game View
+
+GameObject
+
+Hierarchy
+
+Inspector
+
+Mecanim
+
+Prefab
+
+Project Browser
+
+Scene
+
+Scene View
+
+Transform
+
+UI 
+
+Unity Editor
+
+## Other Unity Style Guidelines
+
+**animated gifs** Use animated gifs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated gif.
+
+**bolding**  Often times when writing Unity tutorials, bolding is a multistep step process when making adjustments. Bold each object in the process:
+
+_Example:_ In the **Hierarchy**, select the **SpaceShip** and from the **Inspector**, and inside the **Alien Component**, set the **IsDead** property to **false**.  
+
+**project assets** All assets in a project should be named using __UpperCamelCase__.
+
+**spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.  
+
