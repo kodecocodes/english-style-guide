@@ -28,6 +28,10 @@ Use lowercase and do not bold.
 **Cocos2d**
 Whether and how to capitalize this (_cocos2d? Cocos2D?_) has been notoriously difficult to pin down, but currently, _Cocos2d_ seems to be the most common form.
 
+**Control-click**
+
+**Control-drag**
+
 **document outline**
 
 **double-click**
