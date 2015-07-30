@@ -176,7 +176,6 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 * _Placement:_ Insert when the subject moves from one point to another; more is usually better than less. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
 
-
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 
@@ -253,13 +252,13 @@ Unity Editor
 
 ## Other Unity Style Guidelines
 
-**animated gifs** Use animated gifs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated gif.
+**animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
 
-**bolding**  Often times when writing Unity tutorials, bolding is a multistep step process when making adjustments. Bold each object in the process:
+**bolding** Often times when writing Unity tutorials, bolding is a multi-step process when making adjustments. Bold each object in the process:
 
 _Example:_ In the **Hierarchy**, select the **SpaceShip** and from the **Inspector**, and inside the **Alien Component**, set the **IsDead** property to **false**.  
 
-**project assets** All assets in a project should be named using __UpperCamelCase__.
+**project assets** All assets in a project should be named using UpperCamelCase.
 
-**spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.  
+**spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.
 
