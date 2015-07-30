@@ -33,7 +33,7 @@ Whether and how to capitalize this (_cocos2d? Cocos2D?_) has been notoriously di
 **Control-drag**
 
 **document outline**
-Apple tends to use the term "outline view" in their documentation so that is ok as well, however use one or the other for consistency.
+Apple tends to use the term _outline view_ in its documentation, so that is OK as well; however, use one or the other for consistency.
 
 **double-click**
 
