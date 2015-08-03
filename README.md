@@ -63,6 +63,9 @@ Use lowercase, even when referring a specific, named instance such as _the_ `Gro
 **iOS 7, iOS 8**
 Not _iOS7_ or _iOS8_.
 
+**iPhone 4s, 5s, 5c, 6c**
+Not _iPhone 4S, 5S, etc._ This is as per Apple.
+
 **keyboard keys**
 Spell out and capitalize, whether alone or in multi-press combinations: _Shift-Command-Option-X_.
 
