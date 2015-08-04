@@ -136,6 +136,11 @@ Not _watch app_ or _Watch App_.
 
 ## Other Style Guidelines
 
+**Apple**
+Use the pronoun *it* to refer to Apple and any other company or organization; do not use *they*.
+
+_Example:_ Apple has its own solution...
+
 **bolding**
 Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to click, enter into a text field or otherwise notice. This includes file and directory names, but only those that are the action item of a nearby instruction.
 
