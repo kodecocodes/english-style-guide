@@ -81,7 +81,9 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **OK**
 Don't use _okay_ or _Ok_.
 
-**onscreen and off-screen**
+**offscreen**
+
+**onscreen**
 
 **OS X**
 Not _OSX_.
