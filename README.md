@@ -17,6 +17,9 @@ Use _app_ instead of _application_, unless _application_ is more clear or refers
 
 **Auto Layout**
 
+**Boolean**
+In honor of George Boole. :]
+
 **button**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
@@ -88,6 +91,8 @@ Don't use _okay_ or _Ok_.
 **OS X**
 Not _OSX_.
 
+**playground**
+
 **Podfile**
 
 **pop-up**
@@ -147,6 +152,10 @@ _Example:_ Apple has its own solution...
 Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to click, enter into a text field or otherwise notice. This includes file and directory names, but only those that are the action item of a nearby instruction.
 
 Use the bold style to highlight important concepts that are being introduced for the first time.
+
+When instructing the reader to makes changes, bold each object in the process.
+
+_Example:_ In the **hierarchy**, select the **SpaceShip** and from the **inspector**, inside the **Alien Component**, set the **IsDead** property to **false**.
 
 For bolding in lists, see **lists**.
 
@@ -263,10 +272,6 @@ Unity Editor
 ## Other Unity Style Guidelines
 
 **animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
-
-**bolding** Often times when writing Unity tutorials, bolding is a multi-step process when making adjustments. Bold each object in the process:
-
-_Example:_ In the **Hierarchy**, select the **SpaceShip** and from the **Inspector**, and inside the **Alien Component**, set the **IsDead** property to **false**.  
 
 **project assets** All assets in a project should be named using UpperCamelCase.
 
