@@ -81,6 +81,8 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **Object Library**
 
+**Objective-C**, not Objective C or Obj-C.
+
 **OK**
 Don't use _okay_ or _Ok_.
 
