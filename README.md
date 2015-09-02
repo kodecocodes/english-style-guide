@@ -285,7 +285,7 @@ Unity Editor
 
 In general, digital copy looks best when the serial comma is NOT used. This is the general direction followed by several (but not all!) modern style manuals.
 
-An example of the serial comma in use; "Ray wrote three posts, two product reviews, and a scathing exposé on Android."
+An example of the serial comma in use: "Ray wrote three posts, two product reviews, and a scathing exposé on Android."
 
 The preferred practice is to remove the final comma in the list of elements (the one usually before the 'and', 'or' or 'nor' ): "Ray wrote three posts, two product reviews and a scathing exposé on Android."
 
