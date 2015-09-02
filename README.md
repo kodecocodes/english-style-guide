@@ -116,6 +116,8 @@ It's OK to both use an article and capitalize _Simulator_ if you are using it as
 
 _Correct:_ close the Simulator window
 
+**size classes**
+
 **storyboard**
 
 **superclass**
