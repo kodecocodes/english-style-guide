@@ -79,6 +79,9 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **menu**
 
+**Notification Center**
+But a specific instance is usually termed "the user notification center" in lowercase.
+
 **Object Library**
 
 **Objective-C**, not Objective C or Obj-C.
