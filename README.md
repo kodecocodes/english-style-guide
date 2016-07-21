@@ -108,6 +108,9 @@ Not _OSX_.
 
 **right-click**
 
+**results sidebar**
+Area to the right-hand side of a playground showing the return value of a statement
+
 **simulator**
 _iOS Simulator_ is a simulator app. Generally speaking, use lowercase _simulator_ unless you omit the article:
 
