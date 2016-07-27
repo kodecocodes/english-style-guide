@@ -55,6 +55,9 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **image view**
 
+**In-App Purchase**
+When referring to the feature or API. As a singular instance, simply in-app purchase.
+
 **inspectors**
 Capitalize when referring to a specific inspector in Xcode; e.g., _Attributes Inspector_, _Identity Inspector_.
 
@@ -68,6 +71,8 @@ Not _iOS7_ or _iOS8_.
 
 **iPhone 4s, 5s, 5c, 6c**
 Not _iPhone 4S, 5S, etc._ This is as per Apple.
+
+**JavaScriptCore**
 
 **keyboard keys**
 Spell out and capitalize, whether alone or in multi-press combinations: _Shift-Command-Option-X_.
@@ -286,6 +291,21 @@ Unity Editor
 **project assets** All assets in a project should be named using UpperCamelCase.
 
 **spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.
+
+## Apple Watch Style Guidelines
+
+**complications**
+
+**Digital Crown**
+"the Digital Crown" when referring to the hardware component, but "Digital Crown" when referring to the API.
+
+**Dock**
+Also "the Dock"
+
+**Home screen**
+Also "the Home screen"
+
+**WatchKit**
 
 ## Serial (Oxford) Commas
 
