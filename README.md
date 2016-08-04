@@ -17,6 +17,11 @@ Use _app_ instead of _application_, unless _application_ is more clear or refers
 
 **Auto Layout**
 
+**base 10**
+...or base 2 or base 16 or base 8 when “binary”, “hexadecimal” or “octal” won't do. No hyphenation.
+
+**Bézier curves**
+
 **Boolean**
 In honor of George Boole. :]
 
@@ -58,6 +63,9 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **In-App Purchase**
 When referring to the feature or API. As a singular instance, simply in-app purchase.
 
+**information**
+Please, not "info". 
+
 **inspectors**
 Capitalize when referring to a specific inspector in Xcode; e.g., _Attributes Inspector_, _Identity Inspector_.
 
@@ -74,6 +82,9 @@ Not _iPhone 4S, 5S, etc._ This is as per Apple.
 
 **JavaScriptCore**
 
+**key-value pair**
+Not "key/value pair".
+
 **keyboard keys**
 Spell out and capitalize, whether alone or in multi-press combinations: _Shift-Command-Option-X_.
 
@@ -83,6 +94,8 @@ You _press_ keys, you don't _type_ or _hit_ them.
 Use lowercase, including when instructing the reader to drag one into the scene.
 
 **menu**
+
+**minigame**
 
 **Notification Center**
 But a specific instance is usually termed "the user notification center" in lowercase.
@@ -148,6 +161,9 @@ It's OK to both use an article and capitalize _Terminal_ if you are using it as 
 _Correct:_ open a Terminal window  
 _Correct:_ use the Terminal command  
 _Correct:_ open the Terminal application
+
+**Today**
+As in Today extension, Today view, etc.
 
 **view controller**
 
@@ -304,6 +320,8 @@ Also "the Dock"
 
 **Home screen**
 Also "the Home screen"
+
+**Time Travel**
 
 **WatchKit**
 
