@@ -99,6 +99,9 @@ Not _OSX_.
 
 **pop-up**
 
+**position, rotation, etc. formatting** format as inline and use lowercase x,y,z
+_Example_ `(x:-6.624, y:13.622, z:6.35)`
+
 **project navigator**
 
 **Retina and non-Retina**
@@ -231,6 +234,11 @@ _Example:_ The final score was 13-1 _OR_ The final score was thirteen to one.
 
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
 
+**punctuation in books** 
+* Use emdashes to offset asides or join thoughts that other punctuation can't handle. 
+* Use endashes to join multi-press sequences _Example_ Command–Shift
+* Use curly quotes and apostrophes in text. Do not use them in code sections.
+
 **quotation marks**
 Punctuation not essential to a quote should be placed outside of the quotes (British style) so as to avoid any possible confusion about whether a punctuation mark is part of a string or any other bit of code.
 
@@ -241,15 +249,17 @@ You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the o
 
 _Capitalize and style terms as below._
 
+Capitalize the _name_ of a GameObject, component, view, button, etc. Lowercase the defining term, e.g., _Inspector view,  Layout button, AwesomeSauce component, Game scene_
+
+Lowercase terms when used in a generic sense, e.g. _Click the same button to do something amazing. Move the view off to the side. The component is highly illogical. Take a look at the scene._
+
 Animator
 
-Animation View
-
-Component
+Animation view
 
 Coroutine
 
-Game View
+Game view
 
 GameObject
 
@@ -263,9 +273,11 @@ Prefab
 
 Project Browser
 
+Project Window
+
 Scene
 
-Scene View
+Scene view
 
 Transform
 
@@ -276,6 +288,8 @@ Unity Editor
 ## Other Unity Style Guidelines
 
 **animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
+
+**engine** Refer to Unity as an engine, not an IDE or other such thing
 
 **project assets** All assets in a project should be named using UpperCamelCase.
 
