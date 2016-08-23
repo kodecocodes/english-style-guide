@@ -235,9 +235,9 @@ _Example:_ The final score was 13-1 _OR_ The final score was thirteen to one.
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
 
 **punctuation in books** 
-* Use emdashes to offset asides or join thoughts that other punctuation can't handle. 
+* Use emdashes to offset asides or join thoughts that other punctuation can't handle. _Example_ Tammy said that endashes were her arch enemy — right after zombies.
 * Use endashes to join multi-press sequences _Example_ Command–Shift
-* Use curly quotes and apostrophes in text. Do not use them in code sections.
+* Use curly quotes and apostrophes in text. Do not use them in code sections. _Example_ “I can't abide those Jawas — disgusting creatures!” said C-3P0. R2’s chirp echoed the disdain in 3P0’s metallic voice.
 
 **quotation marks**
 Punctuation not essential to a quote should be placed outside of the quotes (British style) so as to avoid any possible confusion about whether a punctuation mark is part of a string or any other bit of code.
