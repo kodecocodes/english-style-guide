@@ -257,7 +257,7 @@ Animator
 
 Animation view
 
-Coroutine
+coroutine
 
 Game view
 
@@ -269,11 +269,9 @@ Inspector
 
 Mecanim
 
-Prefab
+prefab
 
-Project Browser
-
-Project Window
+Project view 
 
 Scene
 
@@ -283,7 +281,7 @@ Transform
 
 UI 
 
-Unity Editor
+Unity editor
 
 ## Other Unity Style Guidelines
 
