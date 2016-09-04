@@ -249,15 +249,19 @@ You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the o
 
 _Capitalize and style terms as below._
 
-Capitalize the _name_ of a GameObject, component, view, button, etc. Lowercase the defining term, e.g., _Inspector view,  Layout button, AwesomeSauce component, Game scene_
+Capitalize the _name_ of a GameObject, component, view, button, etc. Lowercase the defining term.
+_Example:_ _Inspector view,  Layout button, AwesomeSauce component, Game scene_
 
-Lowercase terms when used in a generic sense, e.g. _Click the same button to do something amazing. Move the view off to the side. The component is highly illogical. Take a look at the scene._
+Lowercase terms when used in a generic sense
+_examples_
+* Click the same button to do something amazing.
+* Move the view off to the side. 
+* The component is highly illogical. 
+* Take a look at the scene.
 
 Animator
 
 Animation view
-
-coroutine
 
 Game view
 
@@ -269,15 +273,9 @@ Inspector
 
 Mecanim
 
-prefab
-
 Project view 
 
-Scene
-
 Scene view
-
-Transform
 
 UI 
 
