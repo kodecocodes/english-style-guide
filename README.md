@@ -56,6 +56,8 @@ _FPS_ not _fps_
 **glance**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
+**Gmail**
+
 **group**
 
 **image view**
@@ -149,6 +151,9 @@ _Correct:_ close the Simulator window
 **terminal**
 OS X includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
+**top shelf**
+No definite consensus on this one from Apple (Top Shelf is used as well); the top area of the tvOS Home Screen.
+
 _Correct:_ close the terminal  
 _Correct:_ open a terminal window  
 _Correct:_ use the terminal command  
@@ -228,7 +233,6 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
-
 `nil`  
 `if` statement  
 `while` loop  
@@ -263,6 +267,9 @@ Punctuation not essential to a quote should be placed outside of the quotes (Bri
 
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
+
+**URL**
+Write URLs in lowercase, and leave off the leading www if possible: raywenderlich.com. No special formatting required when the website is part of the main body text.
 
 ## Unity Terms and Capitalization
 
