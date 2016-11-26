@@ -273,39 +273,54 @@ Write URLs in lowercase, and leave off the leading www if possible: raywenderlic
 
 ## Unity Terms and Capitalization
 
-_Capitalize and style terms as below._
+_Capitalize and style terms as below:_
 
-Animator
+Animator window  
+  
+animation  
 
-Animation View
+Animation view  
+  
+camera (when talking about the GameObject)  
+  
+Camera (when talking about the Camera component)
 
-Component
+component  
 
-Coroutine
+coroutine 
 
-Game View
+Game view  
 
-GameObject
+GameObject  
 
-Hierarchy
+Hierarchy window
 
-Inspector
+Inspector window
 
-Mecanim
+Mecanim  
+  
+MonoBehaviour
+  
+object
 
-Prefab
+prefab
 
-Project Browser
+Project window
 
-Scene
+scene
 
-Scene View
+Scene view  
+  
+script
 
-Transform
+Transform  
+
+toolbar  
 
 UI 
 
-Unity Editor
+Unity editor
+
 
 ## Other Unity Style Guidelines
 
@@ -314,6 +329,10 @@ Unity Editor
 **project assets** All assets in a project should be named using UpperCamelCase.
 
 **spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.
+
+**script vs component** When talking about the actual .cs file (and the MonoBehaviour class that's inside) call it a **script**, when you're in the editor and you take that **script** and attach it to a GameObject, refer to it as a **component** ("instance" of a script).  
+  
+**camera vs Camera** Some common terms like camera, light, collider also have components that are named the same. This can get confusing sometimes. Therefore, when referring to a **common GameObject** (e.g. the **camera**) use lowercase, when referring specifically to the  attached **component** use UpperCamelCase.
 
 ## Apple Watch Style Guidelines
 
