@@ -281,7 +281,7 @@ animation
 
 Animation view  
   
-camera (when talking about the GameObject)  
+camera (when talking about the GameObject or when talking about cameras in general)  
   
 Camera (when talking about the Camera component)
 
