@@ -293,6 +293,8 @@ Game view
 
 GameObject  
 
+gizmo
+
 Hierarchy window
 
 Inspector window
