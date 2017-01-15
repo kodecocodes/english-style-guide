@@ -315,6 +315,8 @@ Scene view
   
 script
 
+sprite
+
 Transform  
 
 toolbar  
