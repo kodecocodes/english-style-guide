@@ -338,6 +338,8 @@ Unity editor
   
 **camera vs Camera** Some common terms like camera, light, collider also have components that are named the same. This can get confusing sometimes. Therefore, when referring to a **common GameObject** (e.g. the **camera**) use lowercase, when referring specifically to the  attached **component** use UpperCamelCase.
 
+**Vector representations** If you describe a **Vector2**, **Vector3** or similar data, use this notation: **(X:1, Y:2, Z:3)**
+
 ## Apple Watch Style Guidelines
 
 **complications**
