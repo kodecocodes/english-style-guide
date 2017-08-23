@@ -170,6 +170,8 @@ _Correct:_ open the Terminal application
 **Today**
 As in Today extension, Today view, etc.
 
+**Touch ID**
+
 **view controller**
 
 **Watch app**
