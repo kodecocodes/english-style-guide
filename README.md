@@ -4,7 +4,7 @@ This is an English style guide that we should follow to stay consistent in how w
 
 In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those. The guide also covers terms used within Unity tutorials.
 
-##iOS Terms and Capitalization
+## iOS Terms and Capitalization
 
 _Capitalize and style terms as below._
 
