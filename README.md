@@ -113,6 +113,8 @@ Don't use _okay_ or _Ok_.
 
 **onscreen**
 
+**open-source**
+
 **OS X**
 Not _OSX_.
 
