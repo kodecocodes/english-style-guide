@@ -69,7 +69,7 @@ When referring to the feature or API. As a singular instance, simply in-app purc
 Please, not "info". 
 
 **inspectors**
-Capitalize when referring to a specific inspector in Xcode; e.g., _Attributes Inspector_, _Identity Inspector_.
+Capitalize when it's a button name or in a menu command. Otherwise, spell with a lowercase _i_. When referring to panes in Xcode, capitalize the name of the pane but not "inspector"; e.g., _Attributes inspector_, _File inspector_, _Size inspector_.
 
 **Interface Builder**
 
@@ -98,6 +98,9 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **menu**
 
 **minigame**
+
+**navigators**
+Capitalize when it's a button name or in a menu command. Otherwise, spell with a lowercase _n_. When referring to panes in Xcode, capitalize the name of the pane but not "navigator"; e.g., _Project navigator_, _Issue navigator_, _Test navigator_.
 
 **Notification Center**
 But a specific instance is usually termed "the user notification center" in lowercase.
