@@ -2,7 +2,7 @@
 
 This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
 
-In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those. The guide also covers terms used within Unity tutorials.
+In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](https://help.apple.com/asg/mac/2013/ASG_2013.pdf). This guide has some tweaks and clarifications on top of those. The guide also covers terms used within Unity tutorials. Finally, we use US English spellings in our tutorials.
 
 ## iOS Terms and Capitalization
 
@@ -156,9 +156,6 @@ _Correct:_ close the Simulator window
 **terminal**
 OS X includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
-**top shelf**
-No definite consensus on this one from Apple (Top Shelf is used as well); the top area of the tvOS Home Screen.
-
 _Correct:_ close the terminal  
 _Correct:_ open a terminal window  
 _Correct:_ use the terminal command  
@@ -174,6 +171,9 @@ _Correct:_ open the Terminal application
 
 **Today**
 As in Today extension, Today view, etc.
+
+**top shelf**
+No definite consensus on this one from Apple (Top Shelf is used as well); the top area of the tvOS Home Screen.
 
 **Touch ID**
 
