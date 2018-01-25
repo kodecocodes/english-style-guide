@@ -100,6 +100,8 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **label**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
+**macOS**
+
 **menu**
 
 **minigame**
@@ -124,7 +126,7 @@ Don't use _okay_ or _Ok_.
 **open-source**
 
 **OS X**
-Not _OSX_.
+Don't use _OS X_ or _OSX_; it's now macOS.
 
 **playground**
 
