@@ -136,6 +136,15 @@ Not _OSX_.
 **results sidebar**
 Area to the right-hand side of a playground showing the return value of a statement
 
+**setup, set up, set-up**
+
+"Set up" is the verb, where you _set up_ your computer.
+"Setup" is the noun. The Catterwauls have quite a _setup_ in their video studio.
+
+Take care of those first two forms properly and you’ve covered 95% of cases.
+
+"Set-up" is a common adjectival noun: My mobile carrier has a steep _set-up_ fee. But I wouldn’t slap anyone with a trout for using the above noun form instead: a steep _setup_ fee
+
 **simulator**
 _iOS Simulator_ is a simulator app. Generally speaking, use lowercase _simulator_ unless you omit the article:
 
