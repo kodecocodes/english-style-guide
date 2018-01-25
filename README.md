@@ -53,6 +53,11 @@ Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 **frame rate**
 _FPS_ not _fps_
 
+**Git**
+Unless you're specifically referring to a command using the tool, Git should be a proper noun. When used as a command, make sure to mark it as code: `git`.
+
+**GitHub**
+
 **glance**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
