@@ -143,6 +143,8 @@ Don't use _OS X_ or _OSX_; it's now macOS.
 **results sidebar**
 Area to the right-hand side of a playground showing the return value of a statement
 
+**server-side**
+
 **setup, set up, set-up**
 
 "Set up" is the verb, where you _set up_ your computer.
