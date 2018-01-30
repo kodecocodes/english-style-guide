@@ -31,6 +31,8 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **build and run**
 Use lowercase and do not bold.
 
+**client-side**
+
 **CocoaPod**
 
 **Cocos2d**
