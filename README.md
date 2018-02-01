@@ -42,6 +42,10 @@ Whether and how to capitalize this (_cocos2d? Cocos2D?_) has been notoriously di
 
 **Control-drag**
 
+**delight**
+
+Please refrain from using this word when talking about UI animations. You’re a better writer than that.
+
 **document outline**
 Apple tends to use the term _outline view_ in its documentation, so that is OK as well; however, use one or the other for consistency.
 
