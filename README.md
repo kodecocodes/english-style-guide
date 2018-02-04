@@ -302,6 +302,10 @@ You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the o
 **URL**
 Write URLs in lowercase, and leave off the leading www if possible: raywenderlich.com. No special formatting required when the website is part of the main body text.
 
+**× vs. x**
+
+When you’re discussing a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
+
 ## Unity Terms and Capitalization
 
 _Capitalize and style terms as below:_
