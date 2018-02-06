@@ -140,8 +140,6 @@ Don't use _OS X_ or _OSX_; it's now macOS.
 
 **pop-up**
 
-**project navigator**
-
 **Retina and non-Retina**
 
 **right-click**
