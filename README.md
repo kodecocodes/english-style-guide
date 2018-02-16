@@ -171,6 +171,8 @@ _Correct:_ close the Simulator window
 
 **size classes**
 
+**SpringBoard**
+
 **storyboard**
 
 **superclass**
