@@ -106,6 +106,8 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **label**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
+**long-press**
+
 **macOS**
 
 **menu**
