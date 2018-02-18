@@ -179,6 +179,8 @@ _Correct:_ close the Simulator window
 
 **superclass**
 
+**Swift**
+
 **terminal**
 OS X includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
