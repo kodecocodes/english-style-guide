@@ -182,7 +182,7 @@ _Correct:_ close the Simulator window
 **Swift**
 
 **terminal**
-OS X includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
+macOS includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
 _Correct:_ close the terminal  
 _Correct:_ open a terminal window  
