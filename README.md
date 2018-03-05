@@ -158,6 +158,8 @@ Don't use _OS X_ or _OSX_; it's now macOS.
 **results sidebar**
 Area to the right-hand side of a playground showing the return value of a statement
 
+**SceneKit**
+
 **server-side**
 
 **setup, set up, set-up**
@@ -183,6 +185,8 @@ _Correct:_ close the Simulator window
 **size classes**
 
 **SpringBoard**
+
+**SpriteKit**
 
 **storyboard**
 
