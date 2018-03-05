@@ -110,6 +110,11 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **label**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
+**login, log in**
+
+"log in" is the verb. You log in to your WordPress account to write your tutorial.
+"login" is the adjective (or, if you _really_ must, the noun). WordPress gives you access to writing tools when it processes your login request.
+
 **long-press**
 
 **macOS**
