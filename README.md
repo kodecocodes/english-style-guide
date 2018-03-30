@@ -194,6 +194,9 @@ _Correct:_ close the Simulator window
 
 **Swift**
 
+**SwiftNIO**
+Not "Swift NIO", "Swift-NIO" or "NIO".
+
 **terminal**
 macOS includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
