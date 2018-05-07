@@ -123,6 +123,12 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 Also note that we use the "▸" character for menu separators now. To wit: "File ▸ New ▸ From Template". The use of the slashes "File\New\From Template" has been deprecated.
 
+```none
+▸
+BLACK RIGHT-POINTING SMALL TRIANGLE
+Unicode: U+25B8, UTF-8: E2 96 B8
+```
+
 **minigame**
 
 **navigators**
