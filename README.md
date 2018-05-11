@@ -2,7 +2,7 @@
 
 This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
 
-In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). This guide has some tweaks and clarifications on top of those. The guide also covers terms used within Unity tutorials. Finally, we use US English spellings in our tutorials.
+In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). This guide has some tweaks and clarifications on top of those. It also covers terms used within Unity tutorials. Finally, we use US English spellings in our publications.
 
 ## iOS Terms and Capitalization
 
@@ -117,7 +117,7 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 **login, log in**
 
 "log in" is the verb. You log in to your WordPress account to write your tutorial.
-"login" is the adjective (or, if you _really_ must, the noun). WordPress gives you access to writing tools when it processes your login request.
+"login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
 
 **long-press**
 
@@ -125,7 +125,7 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **menu**
 
-Also note that we use the "▸" character for menu separators now. To wit: "File ▸ New ▸ From Template". The use of the slashes "File\New\From Template" has been deprecated.
+We use the "▸" character for menu separators. To wit: "File ▸ New ▸ From Template". The use of the backslashes — "File\New\From Template" — has been deprecated.
 
 ```none
 ▸
@@ -272,6 +272,12 @@ References to chapters in other books can be written as follows:
 
 _Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
+**code objects**
+Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
+
+**contractions**
+In general, prefer contractions to the alternative as they enhance the conversational style of our writing.
+
 **coordinates**
 _(x, y)_ not _(x,y)_
 
@@ -282,6 +288,9 @@ These are not punctuation; sentences that end with an emoticon still need approp
 
 **file extensions**
 either _XXX_ or _.xxx_
+
+**functions**
+see _code objects_.
 
 **game references**
 Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds_, but not the names of other software.
@@ -309,6 +318,9 @@ List items should be followed by colons, not dashes.
 
 If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style.
 
+**methods**
+see _code objects_.
+
 **numbers vs. numerals**
 Spell out whole numbers up to and including nine, as well as larger numbers that can be expressed in one or two words.
 
@@ -321,9 +333,12 @@ _Examples:_ 10; 25,000; 30%; divide 15 by 3; Chapter 6; Highway 4; Room 2.
 Numbers in series should be consistent.
 
 _Example:_ She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.  
-_Example:_ The final score was 13-1 _OR_ The final score was thirteen to one.
+_Example:_ The final score was 13–1 _OR_ The final score was thirteen to one.
 
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
+
+**protocols**
+see _code objects_.
 
 **quotation marks**
 Punctuation not essential to a quote should be placed outside of the quotes (British style) so as to avoid any possible confusion about whether a punctuation mark is part of a string or any other bit of code.
@@ -333,6 +348,9 @@ You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the o
 
 **URL**
 Write URLs in lowercase, and leave off the leading www if possible: raywenderlich.com. No special formatting required when the website is part of the main body text.
+
+**variables**
+see _code objects_.
 
 **× vs. x**
 
