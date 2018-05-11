@@ -42,6 +42,10 @@ Whether and how to capitalize this (_cocos2d? Cocos2D?_) has been notoriously di
 
 **Control-drag**
 
+**data**
+
+The word is plural. Data are, not data is. Except for Lt. Commander Data. He's singular.
+
 **delight**
 
 Please refrain from using this word when talking about UI animations. You’re a better writer than that.
