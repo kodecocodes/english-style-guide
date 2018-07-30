@@ -233,7 +233,7 @@ No definite consensus on this one from Apple (Top Shelf is used as well); the to
 
 **Touch ID**
 
-**view controller**
+**View controller**
 
 **Watch app**
 Not _watch app_ or _Watch App_.
