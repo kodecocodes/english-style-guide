@@ -115,7 +115,6 @@ You _press_ keys, you don't _type_ or _hit_ them.
 Use lowercase, including when instructing the reader to drag one into the scene.
 
 **login, log in**
-
 "log in" is the verb. You log in to your WordPress account to write your tutorial.
 "login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
 
@@ -140,6 +139,7 @@ Capitalize when it's a button name or in a menu command. Otherwise, spell with a
 
 **Notification Center**
 But a specific instance is usually termed "the user notification center" in lowercase.
+When using the official term, do not include an article. "Send a notification to Notification Center." 
 
 **Object Library**
 
@@ -434,6 +434,7 @@ Unity editor
 
 **Dock**
 Also "the Dock"
+When referring more generally to a location you choose to store files, "dock" with lowercasing is appropriate. 
 
 **Home screen**
 Also "the Home screen"
