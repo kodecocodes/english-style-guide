@@ -233,7 +233,11 @@ No definite consensus on this one from Apple (Top Shelf is used as well); the to
 
 **Touch ID**
 
-**View controller**
+**view controller / View controller**
+
+Use view controller when speaking of an instance in general. 
+
+Use View control to reference the four-button unit for changing views of Finder windows. The View control comprises the Icon View button, the List View button, the Column View button and the Cover Flow button. 
 
 **Watch app**
 Not _watch app_ or _Watch App_.
