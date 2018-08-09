@@ -122,6 +122,8 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **long-press**
 
+**MacBook**
+
 **macOS**
 
 **menu**
