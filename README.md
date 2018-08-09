@@ -126,7 +126,7 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **menu**
 
-We use the "▸" character for menu separators. To wit: "File ▸ New ▸ From Template". The use of the backslashes — "File\New\From Template" — has been deprecated.
+We use the "▸" character for menu separators. To wit: "File ▸ New ▸ From Template". The use of the backslashes — "File\New\From Template" — has been deprecated. However, please continue to use forward slashes as path separators as in "myproject/assets/puppy.jpg".
 
 ```none
 ▸
