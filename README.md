@@ -79,6 +79,8 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **group**
 
+**hard-coded** as an adjective to describe something, but **hard code** when giving an instruction.
+
 **image view**
 
 **In-App Purchase**
