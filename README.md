@@ -388,9 +388,9 @@ GameObject
 
 gizmo
 
-Hierarchy window
+Hierarchy
 
-Inspector window
+Inspector
 
 Mecanim  
   
