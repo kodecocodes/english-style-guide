@@ -17,6 +17,13 @@ Use _app_ instead of _application_, unless _application_ is more clear or refers
 
 **Auto Layout**
 
+**back end, back-end, backend**
+"back end" is a noun. You develop the back end. 
+"back-end" functions as a (compound) modifier and is hyphenated before a noun. You are the back-end developer who developed the back end. 
+"backend" is used in the BFF pattern (Backend for Frontend) 
+
+You are the back-end developer who used the Backend for Frontend pattern to develop the back end.
+
 **base 10**
 ...or base 2 or base 16 or base 8 when “binary”, “hexadecimal” or “octal” won't do. No hyphenation.
 
@@ -66,6 +73,13 @@ Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
 **frame rate**
 _FPS_ not _fps_
+
+**front end, front-end, frontend**
+"front end" is a noun. You develop the front end. 
+"front-end" functions as a (compound) modifier and is hyphenated before a noun. You are the front-end developer who developed the front end. 
+"frontend" is used in the BFF pattern (Backend for Frontend) 
+
+You are the front-end developer who used the Backend for Frontend pattern to develop the front end. 
 
 **Git**
 Unless you're specifically referring to a command using the tool, Git should be a proper noun. When used as a command, make sure to mark it as code: `git`.
