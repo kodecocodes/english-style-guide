@@ -111,6 +111,9 @@ Capitalize when it's a button name or in a menu command. Otherwise, spell with a
 **interface controller**
 Use lowercase, even when referring a specific, named instance such as _the_ `GroceryList` _interface controller._
 
+**internet**
+Not Internet.
+
 **iOS 7, iOS 8**
 Not _iOS7_ or _iOS8_.
 
@@ -123,7 +126,7 @@ Not _iPhone 4S, 5S, etc._ This is as per Apple.
 Not "key/value pair".
 
 **keyboard keys**
-Spell out and capitalize, whether alone or in multi-press combinations: _Shift-Command-Option-X_.
+Spell out and capitalize, whether alone or in multi-press combinations: **Shift-Command-Option-X**.
 
 You _press_ keys, you don't _type_ or _hit_ them.
 
