@@ -263,6 +263,9 @@ Use View control to reference the four-button unit for changing views of Finder 
 **Watch app**
 Not _watch app_ or _Watch App_.
 
+**web service**
+Two words, lowercased. 
+
 **Xcode**
 
 ## Other Style Guidelines
