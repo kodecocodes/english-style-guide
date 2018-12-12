@@ -384,6 +384,10 @@ see _code objects_.
 
 When you’re discussing a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
 
+## Android Terms and Capitalization 
+
+Kotlin Standard Library (when talking about the official Library) 
+
 ## Unity Terms and Capitalization
 
 _Capitalize and style terms as below:_
