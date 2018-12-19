@@ -331,6 +331,8 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 * _Placement:_ Insert when the subject moves from one point to another; more is usually better than less. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
 
+**home page**
+
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 `nil`  
@@ -344,7 +346,7 @@ Use the inline code style (&lt;code&gt; in WordPress) for all class, function an
 **lists**
 List items should be followed by colons, not dashes.
 
-If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style.
+If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _outside_ of the bold formatting. 
 
 **methods**
 see _code objects_.
