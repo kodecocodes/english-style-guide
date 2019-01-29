@@ -9,7 +9,7 @@ In general, we follow the [AP style guide](https://www.apstylebook.com/) and the
 _Capitalize and style terms as below._
 
 **app**
-Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS entity.
+Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS or Android, or other mobile entity.
 
 **app delegate**
 
