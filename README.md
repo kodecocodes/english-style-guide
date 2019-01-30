@@ -367,6 +367,12 @@ _Example:_ The final score was 13–1 _OR_ The final score was thirteen to one.
 
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
 
+**pluralization**
+
+For acronyms, such as API, no quotation is necessary as per AP style.
+Wrong: API’s
+Right: APIs
+
 **protocols**
 see _code objects_.
 
