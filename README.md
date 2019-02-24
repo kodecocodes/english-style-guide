@@ -53,6 +53,8 @@ Whether and how to capitalize this (_cocos2d? Cocos2D?_) has been notoriously di
 
 The word is plural. Data are, not data is. Except for Lt. Commander Data. He's singular.
 
+There are a few cases where **data** can be considered a singular, collective noun, when you consider the various pieces of data as a set. E.g.: The data is correct. (The data, as a singular collective unit, is correct.) One gigabyte of data **is** a lot of information to sort through.
+
 **delight**
 
 Please refrain from using this word when talking about UI animations. You’re a better writer than that.
