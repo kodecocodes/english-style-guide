@@ -197,6 +197,8 @@ Area to the right-hand side of a playground showing the return value of a statem
 
 **server-side**
 
+This extends to the name of the Server-Side Swift pillar. This does not extend to the titles of our books.
+
 **setup, set up, set-up**
 
 "Set up" is the verb, where you _set up_ your computer.
