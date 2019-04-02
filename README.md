@@ -95,6 +95,15 @@ Use lowercase, including when instructing the reader to drag one into the scene.
 
 **group**
 
+**he/she, he or she**
+Default to "they" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "she" if you like.
+
+**him/her, him or her**
+Use "them" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "her" if you like.
+
+**his/her, his or her**
+Use "their" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "her" if you like.
+
 **hard-coded** as an adjective to describe something, but **hard code** when giving an instruction.
 
 **image view**
