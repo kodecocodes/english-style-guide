@@ -279,6 +279,9 @@ Not _watch app_ or _Watch App_.
 **web service**
 Two words, lowercased. 
 
+**Wi-Fi**
+This is actually a trademark, though usage doesn't require additional decoration.
+
 **Xcode**
 
 ## Other Style Guidelines
