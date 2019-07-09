@@ -394,7 +394,8 @@ Right: APIs
 see _code objects_.
 
 **quotation marks**
-Punctuation not essential to a quote should be placed outside of the quotes (British style) so as to avoid any possible confusion about whether a punctuation mark is part of a string or any other bit of code.
+
+AP style: Periods and commas always go within quotation marks. Dashes, semicolons, question marks and exclamation points go within quotation marks when they apply to the quoted matter only. They go outside quotation marks when they apply to the whole sentence.
 
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
