@@ -345,7 +345,7 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 * _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns.</li>
 
-* _Placement:_ Insert when the subject moves from one point to another; more is usually better than less. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
+* _Placement:_ Insert when the subject moves from one point to another; more subheadings are usually better than fewer. Also ensure that if H2 and H3 headers are used they are nested appropriately. For example, there is no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
 
 **home page**
 
@@ -358,6 +358,9 @@ Use the inline code style (&lt;code&gt; in WordPress) for all class, function an
 `Int`  
 `enum`  
 `switch` statement
+
+**in order to...**
+In almost all cases, "In order to..." can be shortened to "To..." This tightens your prose and saves time for your readers.
 
 **lists**
 List items should be followed by colons, not dashes.
@@ -384,7 +387,7 @@ _Example:_ The final score was 13–1 _OR_ The final score was thirteen to one.
 _Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
 
 **pluralization**
-For acronyms, such as API, no quotation is necessary as per AP style.
+For acronyms, such as API, no apostrophe is necessary as per AP style.
 
 Wrong: API’s
 
@@ -399,6 +402,9 @@ AP style: Periods and commas always go within quotation marks. Dashes, semicolon
 
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
+
+**up**
+Don't use "up" as an adverb unless it is absolutely necessary. For example, "open up" can almost always be shortened to "open."
 
 **URL**
 Write URLs in lowercase, and leave off the leading www if possible: raywenderlich.com. No special formatting required when the website is part of the main body text.
