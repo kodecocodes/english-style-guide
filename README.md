@@ -466,6 +466,8 @@ Scene view
   
 script
 
+Shaders
+
 sprite
 
 Transform  
