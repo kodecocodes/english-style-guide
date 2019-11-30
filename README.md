@@ -32,11 +32,11 @@ You are the back-end developer who used the Backend for Frontend pattern to deve
 **Boolean**
 In honor of George Boole. :]
 
-**button**
-Use lowercase, including when instructing the reader to drag one into the scene.
-
 **build and run**
 Use lowercase and do not bold.
+
+**button**
+Use lowercase, including when instructing the reader to drag one into the scene.
 
 **client-side**
 
