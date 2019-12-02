@@ -349,6 +349,9 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 
 **home page**
 
+**it** or **that**
+Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiuity.
+
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 `nil`  
@@ -399,6 +402,9 @@ see _code objects_.
 **quotation marks**
 
 AP style: Periods and commas always go within quotation marks. Dashes, semicolons, question marks and exclamation points go within quotation marks when they apply to the quoted matter only. They go outside quotation marks when they apply to the whole sentence.
+
+**raywenderlich.com**
+When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
 
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
