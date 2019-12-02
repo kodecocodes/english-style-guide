@@ -291,6 +291,8 @@ Use the pronoun *it* to refer to Apple and any other company or organization; do
 
 _Example:_ Apple has its own solution...
 
+**as-is**
+
 **bolding**
 Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to click, modify, enter into a text field or otherwise notice. This includes file and directory names, but only those that are the action item of a nearby instruction.
 
