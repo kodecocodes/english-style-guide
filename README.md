@@ -2,7 +2,7 @@
 
 This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
 
-In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). This guide has some tweaks and clarifications on top of those. It also covers terms used within Unity tutorials. Finally, we use US English spellings in our publications.
+In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). This guide has some tweaks and clarifications on top of those. It also covers terms used within Unity tutorials. Finally, we use Amreican English spellings in our publications; [see below for some resources](#other-style-guidelines) on working with American English vs British English.
 
 ## iOS Terms and Capitalization
 
