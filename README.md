@@ -287,7 +287,7 @@ This is actually a trademark, though usage doesn't require additional decoration
 ## Other Style Guidelines
 
 **American vs. British English**
-Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](http://www.lostinthepond.com/2013/02/british-english-vs-american-english_4388.html), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/).
+Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/).
 
 **Apple**
 Use the pronoun *it* to refer to Apple and any other company or organization; do not use *they*.
