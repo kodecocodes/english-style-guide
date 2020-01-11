@@ -6,7 +6,10 @@ In general, we follow the [AP style guide](https://www.apstylebook.com/) and the
 
 ## iOS Terms and Capitalization
 
-_Capitalize and style terms as below._
+_Capitali,ze and style terms as below._
+
+**above** and **below**
+In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
 
 **app**
 Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS or Android, or other mobile entity.
