@@ -6,10 +6,7 @@ In general, we follow the [AP style guide](https://www.apstylebook.com/) and the
 
 ## iOS Terms and Capitalization
 
-_Capitali,ze and style terms as below._
-
-**above** and **below**
-In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
+_Capitalize and style terms as below._
 
 **app**
 Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS or Android, or other mobile entity.
@@ -291,6 +288,9 @@ This is actually a trademark, though usage doesn't require additional decoration
 **Xcode**
 
 ## Other Style Guidelines
+
+**above** and **below**
+In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
 
 **American vs. British English**
 Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/). You can also read this [comprehensive guide to British vs. American language](https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English) on Wikipedia.
