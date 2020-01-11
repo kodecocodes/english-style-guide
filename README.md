@@ -328,7 +328,7 @@ References to chapters in other books can be written as follows:
 _Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
 **checkbox** 
-Not check box. Note that we don't "tick" check boxes, since tha's British English. We either select or check them.
+Not check box. Note that we don't "tick" check boxes, since that's British English. We either select or check them.
 
 **code objects**
 Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
