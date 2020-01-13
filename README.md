@@ -435,6 +435,8 @@ Write URLs in lowercase, and leave off the leading www if possible: raywenderlic
 **variables**
 see _code objects_.
 
+**webpage** and **website**
+
 **× vs. x**
 
 When you’re discussing a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
