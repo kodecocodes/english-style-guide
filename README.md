@@ -426,6 +426,9 @@ When referring to the website or our tutorials, refer to it as "raywenderlich.co
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
 
+**TODOs** 
+Not todos or to-dos. And certainly not todo's.
+
 **up**
 Don't use "up" as an adverb unless it is absolutely necessary. For example, "open up" can almost always be shortened to "open."
 
