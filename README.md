@@ -366,7 +366,7 @@ Italicize the names of published games, like _Super Mario Bros._ or _Angry Birds
 **ID** not id.
 
 **it** or **that**
-Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiuity.
+Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiguity.
 
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
