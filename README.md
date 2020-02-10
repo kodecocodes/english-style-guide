@@ -66,6 +66,8 @@ Apple tends to use the term _outline view_ in its documentation, so that is OK a
 
 **drop-down**
 
+**e-book**
+
 **e-commerce**
 
 **editors**
