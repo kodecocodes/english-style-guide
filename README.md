@@ -11,6 +11,17 @@ Finally, we use American English spelling and style in our publications. [See th
 **above** and **below**
 In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
 
+**acronyms**
+In general, write out the full term followed by the acronym in parentheses the first time the phrase appears if you are going to use the acronym at least three times in the article or if understanding the acronym is important for your tutorial. After the first use, use the acronym.
+
+_Example_: "Model-View-Viewmodel (MVVM) is a common architecture for app design... In this tutorial, you'll use MVVM to build..."
+
+If an acronym is commonly-used and easily-recognized (i.e., API or HTTP://), don't write out the full term the first time you use it unless doing so is necessary for your article.
+
+Pluralize acronyms by adding a lower-case s to the end, no apostrophe.
+
+_Example_: "Three commonly-used APIs are..."
+
 **American vs. British English**
 Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/). You can also read this [comprehensive guide to British vs. American language](https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English) on Wikipedia.
 
