@@ -1,8 +1,10 @@
 # English Style Guide
 
-This is an English style guide that we should follow to stay consistent in how we refer to common things in tutorials.
+This English Style Guide provides guidance for spelling, capitalization, and usage of common terms. All authors and editors should use this guide so that our articles are consistent site-wide. It's a good idea to skim through this guide before starting any new article, update, or edit as this document evolves continuously.
 
-In general, we follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). This guide has some tweaks and clarifications on top of those. It also covers terms used within Unity tutorials. Finally, we use American English spellings in our publications; [see below for some resources](#other-style-guidelines) on working with American English vs British English.
+For questions not answered here, follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). 
+
+Finally, we use American English spelling and style in our publications. [See the General Style Guidelines](#general-style-guidelines) for resources to tell the difference between American and British English.
 
 ## General Style Guidelines
 
