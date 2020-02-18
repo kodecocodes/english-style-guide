@@ -509,6 +509,8 @@ prefab
 
 Project window
 
+Rigidbody
+
 runtime
 
 scene
