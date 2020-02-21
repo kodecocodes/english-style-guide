@@ -273,7 +273,7 @@ see _code objects_.
 
 **quotation marks**
 
-AP style: Periods and commas always go within quotation marks. Dashes, semicolons, question marks and exclamation points go within quotation marks when they apply to the quoted matter only. They go outside quotation marks when they apply to the whole sentence.
+Periods, commas, dashes, semicolons, question marks and exclamation points go within quotation marks when they apply to the quoted matter *only*. They go outside quotation marks when they apply to the whole sentence.
 
 **raywenderlich.com**
 When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
