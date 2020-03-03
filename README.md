@@ -285,7 +285,7 @@ You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the o
 
 **server-side**
 
-This extends to the name of the Server-Side Swift pillar. This does not extend to the titles of our books.
+This includes the name of the Server-Side Swift pillar as well as all other uses.
 
 **setup, set up, set-up**
 
