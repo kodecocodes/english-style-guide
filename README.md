@@ -493,9 +493,9 @@ GameObject
 
 gizmo
 
-Hierarchy
+the Hierarchy
 
-Inspector
+the Inspector
 
 Mecanim  
   
