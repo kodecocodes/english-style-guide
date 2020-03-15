@@ -260,7 +260,7 @@ Don't use _okay_ or _Ok_.
 **playground**
 
 **pluralization**
-For acronyms, such as API, no apostrophe is necessary as per AP style.
+For acronyms such as API, no apostrophe is necessary as per AP style.
 
 Wrong: API’s
 
@@ -475,67 +475,71 @@ _Capitalize and style terms as below:_
 
 **animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
 
-Animator window  
+**Animator window**  
   
-animation  
+**animation**
 
-Animation view  
+**Animation view**  
 
 **camera vs Camera** Some common terms like camera, light, collider also have components that are named the same. This can get confusing sometimes. Therefore, when referring to a **common GameObject** (e.g. the **camera**) use lowercase, when referring specifically to the attached **component** use UpperCamelCase.
 
-component  
+**component**
 
-coroutine 
+**coroutine**
 
-Game view  
+**Game view**  
 
-GameObject  
+**GameObject**
 
-gizmo
+**gizmo**
 
-the Hierarchy
+**the Hierarchy**
 
-the Inspector
+**the Inspector**
 
-Mecanim  
+**Mecanim**  
   
-MonoBehaviour
+**MonoBehaviour**
   
-object
+**object**
 
-prefab
+**prefab**
 
-**project assets** All assets in a project should be named using UpperCamelCase.
+**project assets** 
+All assets in a project should be named using UpperCamelCase.
 
-Project window
+**Project window**
 
-Rigidbody
+**Rigidbody**
 
-runtime
+**runtime**
 
-scene
+**scene**
 
-Scene view  
+**Scene view**  
   
-script
+**script**
 
-**script vs component** When talking about the actual .cs file (and the MonoBehaviour class that's inside) call it a **script**, when you're in the editor and you take that **script** and attach it to a GameObject, refer to it as a **component** ("instance" of a script).  
+**script vs. component** 
+When talking about the actual .cs file (and the MonoBehaviour class that's inside) call it a **script**. When you're in the editor and you take that **script** and attach it to a GameObject, refer to it as a **component** ("instance" of a script).  
 
-Shaders
+**Shaders**
 
-**spoilers** Use spoilers to "quiz" readers on repeated operations in the tutorial.
+**spoilers** 
+Use spoilers to "quiz" readers on repeated operations in the tutorial.
 
-sprite
+**sprite**
 
-Transform  
+**Transform** 
 
-toolbar  
+**toolbar**  
 
-UI 
+**UI**
 
-Unity editor
+**Unity editor**
 
-**Vector representations** If you describe a **Vector2**, **Vector3** or similar data, use this notation: **(X:1, Y:2, Z:3)**
+**Vector representations** 
+If you describe a **Vector2**, **Vector3** or similar data, use this notation: **(X:1, Y:2, Z:3)**
 
 ## Apple Watch Style Guidelines
 
