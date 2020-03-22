@@ -167,6 +167,8 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 * _Placement:_ Insert when the subject moves from one point to another; more subheadings are usually better than fewer. Also ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article.</li>
 
+* _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example.
+
 **he/she, he or she**
 Default to "they" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "she" if you like.
 
