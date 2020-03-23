@@ -161,11 +161,11 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 **headers**
 
-* _Casing in tutorials:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the heading. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**</li>
+* _Casing in tutorials:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the 3. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**</li>
 
 * _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns. So **Where to go from here?** or **New features in Swift**</li>
 
-* _Placement:_ Insert when the subject moves from one point to another; more subheadings are usually better than fewer. Also ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide here.](: https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers])</li>
+* _Placement:_ Insert when the subject moves from one point to another; more subheadings are usually better than fewer. Also ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide here.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers])</li>
 
 * _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example.
 
