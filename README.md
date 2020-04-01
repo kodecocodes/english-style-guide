@@ -106,7 +106,7 @@ Note that _coordinate_ refers to one of the group (_the x-coordinate_), while _c
 
 **dashes**
 We use three kinds of dashes in tutorials. Please make sure you're using the right one for your needs:
-* **em dashes (—)** are used to join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about (em dash usage)[https://www.grammarly.com/blog/why-you-should-love-the-em-dash/] at grammarly.com. 
+* **em dashes (—)** are used to join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about [em dash usage](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at grammarly.com. 
 * **hyphens (-)** are used to join *words*. *Open-source* and *front-end design* are examples of correct hyphen usage.
 * **en dashes (–)** are slightly shorter than em dashes. They are most commonly used to join spans of time or numbers: i.e., the 1950s–1960s.
 
