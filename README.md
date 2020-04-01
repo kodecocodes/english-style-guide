@@ -228,6 +228,8 @@ List items should be followed by colons, not dashes.
 
 If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _inside_ the bold formatting. 
 
+Each list item should end with punctuation, unless the entire list consists of short phrases. 
+
 **login, log in**
 "log in" is the verb. You log in to your WordPress account to write your tutorial.
 "login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
