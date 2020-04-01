@@ -142,7 +142,7 @@ Apple tends to use the term _outline view_ in its documentation, so that is OK a
 Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
 **emoticons/emojis**
-These are not punctuation; sentences that end with an emoticon still need appropriate punctuation before the emoticon rather than after it.
+These are not punctuation; sentences that end with an emoticon still need appropriate punctuation before the emoticon rather than after it. 
 
 **file extensions**
 either _XXX_ or _.xxx_
@@ -222,6 +222,8 @@ Make sure that if you use "it" or "that" in place of a noun, it's abundantly cle
 Spell out and capitalize, whether alone or in multi-press combinations: **Shift-Command-Option-X**.
 
 You _press_ keys, you don't _type_ or _hit_ them.
+
+**let's** as well as other first-person terms (**I**, **we**, etc.) should be avoided whenever possible. Keep the focus on the reader by using **you**, **your**, etc.
 
 **lists**
 List items should be followed by colons, not dashes.
