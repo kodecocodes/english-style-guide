@@ -89,6 +89,11 @@ Not check box. Note that we don't "tick" check boxes, since that's British Engli
 **code objects**
 Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
 
+**colons**
+The first letter of a *complete sentence* following a colon should be capitalized. So both of the following examples are correct:
+* There's one thing you should know: thing a and thing b.
+* There's one thing you should know: Never lick a frozen signpost. 
+
 **commas**
 We do not use the serial (Oxford) comma. See the section below for more details.
 
