@@ -104,6 +104,12 @@ _(x, y)_ not _(x,y)_
 
 Note that _coordinate_ refers to one of the group (_the x-coordinate_), while _coordinates_ refers to more than one and usually the entire group (_the GPS coordinates of Cupertino_).
 
+**dashes**
+We use three kinds of dashes in tutorials. Please make sure you're using the right one for your needs:
+* **em dashes (—)** are used to join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about (em dash usage)[https://www.grammarly.com/blog/why-you-should-love-the-em-dash/] at grammarly.com. 
+* **hyphens (-)** are used to join *words*. *Open-source* and *front-end design* are examples of correct hyphen usage.
+* **en dashes (–)** are slightly shorter than em dashes. They are most commonly used to join spans of time or numbers: i.e., the 1950s–1960s.
+
 **data**
 
 The word is plural. Data are, not data is. Except for Lt. Commander Data. He's singular.
@@ -258,6 +264,9 @@ Don't use _okay_ or _Ok_.
 **onscreen**
 
 **open-source**
+
+**parentheses**
+Edit out parentheses in prose whenever possible. Remember, parentheses tell the reader, “I don’t mind if you read over this.” Do you mind if they read over it? 
 
 **playground**
 
