@@ -56,6 +56,8 @@ _Example:_ In the hierarchy, select the **SpaceShip** and from the inspector, in
 
 Also use the bold style to highlight important concepts that are being introduced for the first time.
 
+Punctuation always goes outside of bold tags. For example, in div notes, you should always use **Note**: not **Note:**.
+
 For bolding in lists, see **lists**.
 
 **book references**
@@ -224,7 +226,7 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **lists**
 List items should be followed by colons, not dashes.
 
-If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _outside_ of the bold formatting. 
+If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _inside_ the bold formatting. 
 
 **login, log in**
 "log in" is the verb. You log in to your WordPress account to write your tutorial.
