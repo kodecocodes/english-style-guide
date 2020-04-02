@@ -25,6 +25,9 @@ _Example_: "Three commonly-used APIs are..."
 **American vs. British English**
 Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/). You can also read this [comprehensive guide to British vs. American language](https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English) on Wikipedia.
 
+**apostrophes**
+Wordpress needs straight apostrophes (') not curly or smart apostrophes (’). If your editing tool includes curly apostrophes, please make sure you remove them before adding your article to Wordpress. The same applies to curly quotation marks.
+
 **app**
 Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS or Android, or other mobile entity.
 
