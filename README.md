@@ -103,7 +103,7 @@ The first letter of a *complete sentence* following a colon should be capitalize
 We do not use the serial (Oxford) comma. See the section below for more details.
 
 **contractions**
-In general, prefer contractions to the alternative as they enhance the conversational style of our writing.
+In general, we prefer contractions, because they make our writing more informal and conversational. Look for phrases like "you will", "it is", "they are", etc. and replace them with "you'll", "it's," "they're", etc.
 
 **Control-click**
 
