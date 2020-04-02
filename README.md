@@ -160,6 +160,12 @@ _FPS_ not _fps_
 
 You are the front-end developer who used the Backend for Frontend pattern to develop the front end. 
 
+**future tense**
+Avoid phrases that have awkward future tenses like "will be verbing". When you can, use the present tense, which tends to be more exciting.
+
+Incorrect: In this tutorial, you'll be learning how to...
+Correct: In this tutorial, you'll learn how to...
+
 **functions**
 see _code objects_.
 
