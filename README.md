@@ -592,19 +592,23 @@ Also "the Home screen"
 **WatchKit**
 
 ## Book Chapter Style Guide
+
 Books use a slightly different style guide than articles do. Here are the points where books differ:
 
 **Amersands in Titles**
+
 We prefer ampersands to spelling out "and" for titles and subheadings.
-_Correct_: Data Structures & Algorithms in Swift
-_Incorrect_: Data Structures and Algorithms in Swift
+* **Correct**: Data Structures & Algorithms in Swift
+* **Incorrect**: Data Structures and Algorithms in Swift
 
 **Sentence Case for Subheadings**
+
 We use sentence case for subheadings in books, whereas articles use title case. That means that only the first letter and proper nouns are capitalized in book subheadings.
-_Books_: Where to go from here?
-_Articles_: Where to Go From Here?
+* **Books**: Where to go from here?
+* **Articles**: Where to Go From Here?
 
 **Smart Quotes**
+
 Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes (').
 
 ## Serial (Oxford) Commas
