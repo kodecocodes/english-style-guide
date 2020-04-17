@@ -505,8 +505,6 @@ Kotlin Standard Library (when talking about the official Library)
 
 ## Unity Style and Capitalization
 
-_Capitalize and style terms as below:_
-
 **animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
 
 **Animator window**  
@@ -580,10 +578,10 @@ If you describe a **Vector2**, **Vector3** or similar data, use this notation: *
 **complications**
 
 **Digital Crown**
-"the Digital Crown" when referring to the hardware component, but "Digital Crown" when referring to the API.
+"The Digital Crown" when referring to the hardware component, but "Digital Crown" when referring to the API.
 
 **Dock**
-Also "the Dock"
+Also, "the Dock"
 When referring more generally to a location you choose to store files, "dock" with lowercasing is appropriate. 
 
 **Home screen**
@@ -592,6 +590,22 @@ Also "the Home screen"
 **Time Travel**
 
 **WatchKit**
+
+## Book Chapter Style Guide
+Books use a slightly different style guide than articles do. Here are the points where books differ:
+
+**Amersands in Titles**
+We prefer ampersands to spelling out "and" for titles and subheadings.
+_Correct_: Data Structures & Algorithms in Swift
+_Incorrect_: Data Structures and Algorithms in Swift
+
+**Sentence Case for Subheadings**
+We use sentence case for subheadings in books, whereas articles use title case. That means that only the first letter and proper nouns are capitalized in book subheadings.
+_Books_: Where to go from here?
+_Articles_: Where to Go From Here?
+
+**Smart Quotes**
+Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes (').
 
 ## Serial (Oxford) Commas
 
