@@ -300,7 +300,7 @@ Wrong: API’s
 
 Right: APIs
 
-**pop-up**
+**pop-up** but **popover**
 
 **protocols**
 see _code objects_.
