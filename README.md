@@ -97,7 +97,8 @@ Methods, functions, protocols, classes, structs, variables and so on — those t
 **colons**
 The first letter of a *complete sentence* following a colon should be capitalized. So both of the following examples are correct:
 * There's one thing you should know: thing.
-* There's one thing you should know: Never lick a frozen signpost. 
+* There's one thing you should know: Never lick a frozen signpost.
+Colons should never appear inside bold formatting.
 
 **commas**
 We do not use the serial (Oxford) comma. See the section below for more details.
@@ -237,7 +238,7 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **lists**
 List items should be followed by colons, not dashes.
 
-If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _inside_ the bold formatting. 
+If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _outside_ the bold formatting. 
 
 Each list item should end with punctuation if it is a full sentence. If it is only a sentence fragment, do not punctuate.
 
