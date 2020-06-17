@@ -229,7 +229,7 @@ Not Internet.
 Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiguity.
 
 **keyboard keys**
-Spell out and capitalize, whether alone or in multi-press combinations: **Shift-Command-Option-X**.
+Spell keys as if you were speaking them out loud. So, for example, we say "Alt" but not "Esc" or "Ctrl". Therefore, in tutorials, they should be written as: "Alt", "Escape", and "Control". Capitalize the first letter, whether alone or in multi-press combinations: **Shift-Command-Option-X** or **Control-Alt-F**.
 
 You _press_ keys, you don't _type_ or _hit_ them.
 
