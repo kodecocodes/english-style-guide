@@ -1,4 +1,4 @@
-# English Style Guide
+am# English Style Guide
 
 This English Style Guide provides guidance for spelling, capitalization, and usage of common terms. All authors and editors should use this guide so that our articles are consistent site-wide. It's a good idea to skim through this guide before starting any new article, update, or edit as this document evolves continuously.
 
@@ -598,9 +598,9 @@ Also "the Home screen"
 
 Books use a slightly different style guide than articles do. Here are the points where books differ:
 
-**Amersands in Titles**
+**Ampersands in Titles**
 
-We prefer ampersands to spelling out "and" for titles and subheadings.
+In books, we prefer ampersands to spelling out "and" for titles and subheadings.
 * **Correct**: Data Structures & Algorithms in Swift
 * **Incorrect**: Data Structures and Algorithms in Swift
 
