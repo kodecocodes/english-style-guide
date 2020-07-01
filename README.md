@@ -1,4 +1,4 @@
-am# English Style Guide
+# English Style Guide
 
 This English Style Guide provides guidance for spelling, capitalization, and usage of common terms. All authors and editors should use this guide so that our articles are consistent site-wide. It's a good idea to skim through this guide before starting any new article, update, or edit as this document evolves continuously.
 
