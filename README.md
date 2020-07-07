@@ -12,7 +12,7 @@ Finally, we use American English spelling and style in our publications. [See th
 In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
 
 **acronyms**
-In general, write out the full term followed by the acronym in parentheses the first time the phrase appears if you are going to use the acronym at least three times in the article or if understanding the acronym is important for your tutorial. After the first use, use the acronym.
+In general, write out the full term followed by the acronym in parentheses the first time the phrase appears if you are going to use the acronym at least three times in the article or if understanding the acronym is important for your article. After the first use, use the acronym.
 
 _Example_: "Model-View-Viewmodel (MVVM) is a common architecture for app design... In this tutorial, you'll use MVVM to build..."
 
@@ -116,7 +116,7 @@ _(x, y)_ not _(x,y)_
 Note that _coordinate_ refers to one of the group (_the x-coordinate_), while _coordinates_ refers to more than one and usually the entire group (_the GPS coordinates of Cupertino_).
 
 **dashes**
-We use three kinds of dashes in tutorials. Please make sure you're using the right one for your needs:
+We use three kinds of dashes in articles. Please make sure you're using the right one for your needs:
 * **em dashes (—)** are used to join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about [em dash usage](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at grammarly.com. 
 * **hyphens (-)** are used to join *words*. *Open-source* and *front-end design* are examples of correct hyphen usage.
 * **en dashes (–)** are slightly shorter than em dashes. They are most commonly used to join spans of time or numbers: i.e., the 1950s–1960s.
@@ -184,7 +184,7 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 **headers**
 
-* _Casing in tutorials:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the 3. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**</li>
+* _Casing in articles:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the 3. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**</li>
 
 * _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns. So **Where to go from here?** or **New features in Swift**</li>
 
@@ -229,7 +229,7 @@ Not Internet.
 Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiguity.
 
 **keyboard keys**
-Spell keys as if you were speaking them out loud. So, for example, most people say "Alt" but not "Esc" or "Ctrl". Therefore, in tutorials, they should be written as: "Alt", "Escape", and "Control". Similarly, it's "caps lock" and "num lock" in common parlance, so write those keys that way in tutorials as well.
+Spell keys as if you were speaking them out loud. So, for example, most people say "Alt" but not "Esc" or "Ctrl". Therefore, in articles, they should be written as: "Alt", "Escape", and "Control". Similarly, it's "caps lock" and "num lock" in common parlance, so write those keys that way in articles as well.
 
 Capitalize the first letter, whether alone or in multi-press combinations: **Shift-Command-Option-X** or **Control-Alt-F**.
 
@@ -245,7 +245,7 @@ If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items
 Each list item should end with punctuation if it is a full sentence. If it is only a sentence fragment, do not punctuate.
 
 **login, log in**
-"log in" is the verb. You log in to your WordPress account to write your tutorial.
+"log in" is the verb. You log in to your WordPress account to write your article.
 "login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
 
 **long-press**
@@ -561,7 +561,7 @@ When talking about the actual .cs file (and the MonoBehaviour class that's insid
 **Shaders**
 
 **spoilers** 
-Use spoilers to "quiz" readers on repeated operations in the tutorial.
+Use spoilers to "quiz" readers on repeated operations in the article.
 
 **sprite**
 
