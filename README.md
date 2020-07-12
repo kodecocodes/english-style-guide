@@ -315,6 +315,8 @@ Periods, commas, dashes, semicolons, question marks and exclamation points go wi
 **raywenderlich.com**
 When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
 
+**real-time** when used as an adjective: "real-time analytics". **real time** when used on its own: "we're watching this in real time".
+
 **right-click**
 
 **screen gestures**
