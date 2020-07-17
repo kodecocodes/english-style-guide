@@ -6,6 +6,10 @@ For questions not answered here, follow the [AP style guide](https://www.apstyle
 
 Finally, we use American English spelling and style in our publications. [See the General Style Guidelines](#general-style-guidelines) for resources to tell the difference between American and British English.
 
+## Contributing
+
+To contribute to this guide, please create a new branch for your changes (you can do this right on the GitHub website if you like), make your changes, then open a pull request and request one of the Maintainers to review your PR and merge it.
+
 ## General Style Guidelines
 
 **above** and **below**
