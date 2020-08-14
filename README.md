@@ -196,6 +196,11 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 * _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example.
 
+* _Objects in code tags_: If a heading contains an term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
+
+_Incorrect_: <h2>Using <code>spawnEmoji()</code> Without Losing Your Mind</h2>
+_Correct_: <h2>Using spawnEmoji() Without Losing Your Mind</h2>
+
 **he/she, he or she**
 Default to "they" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "she" if you like.
 
@@ -270,18 +275,18 @@ see _code objects_.
 **numbers vs. numerals**
 Spell out whole numbers up to and including nine, as well as larger numbers that can be expressed in one or two words.
 
-_Examples:_ zero, one, nine, six million.
+_Examples_: zero, one, nine, six million.
 
 Use numerals for numbers greater than nine; for decimals and percentages; for numbers that express mathematical figures; for addresses, dates, the time of day, and page or chapter numbers; and when a numeral is important for identification purposes.
 
-_Examples:_ 10; 25,000; 30%; divide 15 by 3; Chapter 6; Highway 4; Room 2.
+_Examples_: 10; 25,000; 30%; divide 15 by 3; Chapter 6; Highway 4; Room 2.
 
 Numbers in series should be consistent.
 
-_Example:_ She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.  
-_Example:_ The final score was 13–1 _OR_ The final score was thirteen to one.
+_Example_: She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.  
+_Example_: The final score was 13–1 _OR_ The final score was thirteen to one.
 
-_Note:_ There are a lot of exceptions to these basic rules, so use your best judgment.
+_Note_: There are a lot of exceptions to these basic rules, so use your best judgment.
 
 **OK**
 Don't use _okay_ or _Ok_.
@@ -447,13 +452,13 @@ Area to the right-hand side of a playground showing the return value of a statem
 **simulator**
 _iOS Simulator_ is a simulator app. Generally speaking, use lowercase _simulator_ unless you omit the article:
 
-_Correct:_ run in the simulator  
-_Correct:_ run in iOS Simulator _(note lack of article)_  
+_Correct_: run in the simulator  
+_Correct_: run in iOS Simulator _(note lack of article)_  
 _Incorrect_: run in the Simulator
 
 It's OK to both use an article and capitalize _Simulator_ if you are using it as an attributive noun:
 
-_Correct:_ close the Simulator window
+_Correct_: Close the Simulator window...
 
 **size classes**
 
@@ -476,18 +481,18 @@ Not Swift Standard Library
 **terminal**
 macOS includes a terminal emulator program called _Terminal_. Generally speaking, use lowercase _terminal_ unless you omit the article:
 
-_Correct:_ close the terminal  
-_Correct:_ open a terminal window  
-_Correct:_ use the terminal command  
-_Correct:_ enter the following command into Terminal _(note lack of article)_  
-_Correct:_ open Terminal _(note lack of article)_  
-_Incorrect:_ open the Terminal
+_Correct_: Close the terminal  
+_Correct_: Open a terminal window  
+_Correct_: use the terminal command  
+_Correct_: enter the following command into Terminal _(note lack of article)_  
+_Correct_: open Terminal _(note lack of article)_  
+_Incorrect_: open the Terminal
 
 It's OK to both use an article and capitalize _Terminal_ if you are using it as an attributive noun: 
 
-_Correct:_ open a Terminal window  
-_Correct:_ use the Terminal command  
-_Correct:_ open the Terminal application
+_Correct_: open a Terminal window  
+_Correct_: use the Terminal command  
+_Correct_: open the Terminal application
 
 **Today**
 As in Today extension, Today view, etc.
