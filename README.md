@@ -198,8 +198,8 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 * _Objects in code tags_: If a heading contains an term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
 
-_Incorrect_: <h2>Using <code>spawnEmoji()</code> Without Losing Your Mind</h2>
-_Correct_: <h2>Using spawnEmoji() Without Losing Your Mind</h2>
+_Incorrect_: &lt;h2&gt;Using <code>spawnEmoji()</code> Without Losing Your Mind&lt;/h2&gt;
+_Correct_: &lt;h2&gt;Using spawnEmoji() Without Losing Your Mind&lt;/h2&gt;
 
 **he/she, he or she**
 Default to "they" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "she" if you like.
