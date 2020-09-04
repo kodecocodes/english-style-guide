@@ -608,7 +608,14 @@ Also "the Home screen"
 
 ## Book Chapter Style Guide
 
-Books use a slightly different style guide than articles do. Here are the points where books differ:
+Books use a slightly different style guide than articles do. Here are points to keep in mind when editing books:
+
+**Subheadings**
+
+Some important ways book subheadings differ from tutorial subheadings:
+- It's especially important to have frequent subheadings in books. You don't want readers flipping through page after page of text with no subheading to mark where they area.
+- Subheadings can go down to the fourth level (####) in books, if necessary.
+- Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be in gerund form.
 
 **Ampersands in Titles**
 
@@ -618,13 +625,25 @@ In books, we prefer ampersands to spelling out "and" for titles and subheadings.
 
 **Sentence Case for Subheadings**
 
-We use sentence case for subheadings in books, whereas articles use title case. That means that only the first letter and proper nouns are capitalized in book subheadings.
+We use sentence case for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
 * **Books**: Where to go from here?
 * **Articles**: Where to Go From Here?
 
-**Smart Quotes**
+**Smart Quotes/Apostrophes**
 
 Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes (').
+
+**Markdown**
+
+While WordPress uses HTML to mark things like bold style, notes, bulleted lists, and so on, our books use Markdown. For example, WordPress marks subheaders using \<h2\> or \<h3\> but in Markdown, you'd use \## or \###. You can find the tags you need to use in the [Deckle-Flavored Markdown Guide](https://www.raywenderlich.com/codex-users-guide) (pw: tutteam).
+
+**Paragraphs**
+
+Paragraphs can be longer in books than in tutorials. However, be sure that any step-by-step instructions are broken out into lists.
+
+**Required Sections**
+
+The **Key points** section is always required in book chapters. The **Where to go from here?** section is only needed if the author is suggesting the reader check out a significant number of outside resources.
 
 ## Serial (Oxford) Commas
 
