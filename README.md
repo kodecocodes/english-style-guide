@@ -612,7 +612,6 @@ Books use a slightly different style guide than articles do. Here are points to 
 
 **Subheadings**
 
-Some important ways book subheadings differ from tutorial subheadings:
 - It's especially important to have frequent subheadings in books. You don't want readers flipping through page after page of text with no subheading to mark where they area.
 - Subheadings can go down to the fourth level (####) in books, if necessary.
 - Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be in gerund form.
