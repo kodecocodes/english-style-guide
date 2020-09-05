@@ -93,6 +93,7 @@ Methods, functions, protocols, classes, structs, variables and so on — those t
 The first letter of a *complete sentence* following a colon should be capitalized. So both of the following examples are correct:
 * There's one thing you should know: thing.
 * There's one thing you should know: Never lick a frozen signpost.
+
 Colons should never appear inside bold formatting.
 
 **commas**
