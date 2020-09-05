@@ -81,15 +81,6 @@ Use lowercase and do not bold.
 **button**
 Use lowercase, including when instructing the reader to drag one into the scene.
 
-**chapter references**
-When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
-
-_Example:_ Chapter 15, “Performance Tips and Tricks”
-
-References to chapters in other books can be written as follows:
-
-_Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
-
 **checkbox** 
 Not check box. Note that we don't "tick" check boxes, since that's British English. We either select or check them.
 
@@ -643,6 +634,15 @@ Paragraphs can be longer in books than in tutorials. However, be sure that any s
 **Required Sections**
 
 The **Key points** section is always required in book chapters. The **Where to go from here?** section is only needed if the author is suggesting the reader check out a significant number of outside resources.
+
+**Chapter References**
+When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
+
+_Example:_ Chapter 15, “Performance Tips and Tricks”.
+
+Refer to chapters in other books as follows:
+
+_Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
 ## Serial (Oxford) Commas
 
