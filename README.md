@@ -299,7 +299,7 @@ Don't use _okay_ or _Ok_.
 **open-source**
 
 **paragraph tags**
-We don't need paragraph tags (<p>) in our articles. Wordpress renders without them. They can cause problems, so please make sure to remove any you find.
+We don't need paragraph tags (\<p\>) in our articles. Wordpress renders without them. They can cause problems, so please make sure to remove any you find.
 
 **parentheses**
 Edit out parentheses in prose whenever possible. Remember, parentheses tell the reader, “I don’t mind if you read over this.” Do you mind if they read over it? 
