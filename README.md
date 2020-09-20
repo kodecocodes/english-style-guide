@@ -510,6 +510,9 @@ Not _watch app_ or _Watch App_.
 
 Kotlin Standard Library (when talking about the official Library) 
 
+**Logcat**
+No "the" before it.
+
 ## Unity Style and Capitalization
 
 **animated GIFs** Use animated GIFs only once for an operation. When repeating the operation, use either a screenshot or refer the reader back to the animated GIF.
