@@ -67,10 +67,10 @@ Punctuation always goes outside of bold tags. For example, in div notes, you sho
 
 For bolding in lists, see **lists**.
 
-**book references**
-References to other books should be italicized: 
+**book names**
+When you refer to books, italicize their names. 
 
-_Example:_ If you’re new to iOS development, we recommend you start with _iOS Apprentice_.
+_Example:_ If you’re new to iOS development and want to learn more, start with _iOS Apprentice_.
 
 **Boolean**
 In honor of George Boole. :]
