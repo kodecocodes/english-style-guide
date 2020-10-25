@@ -508,7 +508,9 @@ Not _watch app_ or _Watch App_.
 
 ## Android Terms and Capitalization 
 
-Kotlin Standard Library (when talking about the official Library) 
+**Kotlin Standard Library** (when talking about the official library) 
+
+**Material Design**
 
 **Logcat**
 No "the" before it.
@@ -538,8 +540,6 @@ No "the" before it.
 **the Hierarchy**
 
 **the Inspector**
-
-**Material Design**
 
 **Mecanim**  
   
