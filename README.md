@@ -412,6 +412,8 @@ Not _iOS7_ or _iOS8_.
 **iPhone 4s, 5s, 5c, SE, 6c, 6s, X, XR, Xs**
 Not _iPhone 4S, 5S, 5C, Se, 6C, 6S, x, Xr, Xs, etc._ This is as per Apple.
 
+**JavaScript**
+
 **JavaScriptCore**
 
 **key-value pair**
