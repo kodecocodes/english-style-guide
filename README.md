@@ -127,6 +127,13 @@ There are a few cases where **data** can be considered a singular, collective no
 
 Please refrain from using this word when talking about UI animations. You’re a better writer than that.
 
+**deselect vs. unselect**
+
+If you are talking about removing a check from a checkbox, use "deselect". "Unselect" is incorrect. "Unselected" can be used for an option that hasn't been checked.
+
+* **Correct**: Scroll down to the newsletter options and deselect "Opt-In".
+* **Correct**: Because the user hasn't completed the form, "Opt-Out" is still unselected.
+
 **document outline**
 Apple tends to use the term _outline view_ in its documentation, so that is OK as well; however, use one or the other for consistency.
 
