@@ -636,7 +636,7 @@ We use sentence case for subheadings in books, whereas articles use Title Case. 
 
 **Smart Quotes/Apostrophes**
 
-Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes (').
+Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes ('). **Important Excpetion**: The metadata should include straight quotes and apostrophes _only_.
 
 **Markdown**
 
