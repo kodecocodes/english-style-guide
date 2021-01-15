@@ -82,7 +82,7 @@ Use lowercase and do not bold.
 Use lowercase, including when instructing the reader to drag one into the scene.
 
 **checkbox** 
-Not check box. Note that we don't "tick" check boxes, since that's British English. We either select or check them.
+Not check box. Note that we don't "tick" checkboxes, since that's British English. We either select or check them.
 
 **client-side**
 
