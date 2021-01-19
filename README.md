@@ -238,9 +238,9 @@ Not Internet.
 Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiguity.
 
 **keyboard keys**
-Spell keys as if you were speaking them out loud. So, for example, most people say "Alt" but not "Esc" or "Ctrl". Therefore, in articles, they should be written as: "Alt", "Escape", and "Control". Similarly, it's "caps lock" and "num lock" in common parlance, so write those keys that way in articles as well.
+Spell meta keys as if you were speaking them out loud. So, for example, most people say "Alt" but not "Esc" or "Ctrl". Therefore, in articles, they should be written as: "Alt", "Escape", and "Control". Similarly, it's "Caps Lock" and "Num Lock" in common parlance, so write those keys that way in articles as well. Any key that makes its own symbol — ".", "a", "." or "-", for example — should just use that symbol.
 
-Capitalize the first letter, whether alone or in multi-press combinations: **Shift-Command-Option-X** or **Control-Alt-F**.
+Capitalize the first letter, whether alone or in multi-press combinations: **Shift-Command-Option-X**, **Control-Alt-F** or **Shift-Ctrl-,**.
 
 You _press_ keys, you don't _type_ or _hit_ them.
 
