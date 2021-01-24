@@ -187,11 +187,11 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 **headers**
 
-* _Casing in articles:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the sentence. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**</li>
+* _Casing in articles:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the sentence. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**
 
-* _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns. So **Where to go from here?** or **New features in Swift**</li>
+* _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns. So **Where to go from here?** or **New features in Swift**
 
-* _Placement:_ Insert when the subject moves from one point to another. When in doubt, more subheadings are usually better than fewer. Also, ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers)</li>
+* _Placement:_ Insert when the subject moves from one point to another. When in doubt, more subheadings are usually better than fewer. Also, ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers).
 
 * _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example.
 
@@ -233,6 +233,11 @@ In almost all cases, "In order to..." can be shortened to "To..." This tightens 
 
 **internet**
 Not Internet.
+
+**introductory clauses**
+Be sure to add a comma after [introductory clauses](https://www.grammarly.com/blog/commas-after-introductory-clauses/). Many grammar guides say that the comma is optional for very short introductory clauses, but our style is to always use it. 
+
+_Examples_: "Now, add the following to..." and "To do that, you'll need to..."
 
 **it** or **that**
 Make sure that if you use "it" or "that" in place of a noun, it's abundantly clear what you are referring to. Avoid ambiguity.
