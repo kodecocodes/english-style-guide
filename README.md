@@ -253,11 +253,18 @@ You _press_ keys, you don't _type_ or _hit_ them.
 **let's** as well as other first-person terms (**I**, **we**, etc.) should be avoided whenever possible. Keep the focus on the reader by using **you**, **your**, etc.
 
 **lists**
-List items should be followed by colons, not dashes.
 
-If a list includes items, bold them (&lt;em&gt; in WordPress). If the list items are code structures, use the bold style rather than the inline code style. The colon should appear _outside_ the bold formatting. 
+When you have items introduced in an ordered (&lt;ol&gt;) or unordered (&lt;ul&gt;) list, bold (&lt;em&gt; in WordPress) each item, then follow it with a colon and the description. Do not use dashes as separators. Those items should be bolded even if they're code structures that would normally use inline code style. The colon should appear _outside_ the bold formatting.
 
-Each list item should end with punctuation if it is a full sentence. If it is only a sentence fragment, do not punctuate.
+Each list item should end with punctuation if it's a full sentence. If it's only a short sentence fragment, do not punctuate.
+
+_Example_:
+
+&lt;ol&gt;
+
+   &lt;li&gt;&lt;em&gt;Function1&lt;/em&gt;: This function does a thing.&lt;/li&gt;
+
+&lt;/ol&gt;
 
 **login, log in**
 "log in" is the verb. You log in to your WordPress account to write your article.
