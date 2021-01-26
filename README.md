@@ -327,12 +327,15 @@ Right: APIs
 
 **pop-up** but **popover**
 
+**possessive**
+To make a word ending in "s" possessive, add "'s". For example: "The class's name".
+
 **protocols**
 see _code objects_.
 
 **quotation marks**
 
-Periods, commas, dashes, semicolons, question marks and exclamation points go within quotation marks when they apply to the quoted matter *only*. They go outside quotation marks when they apply to the whole sentence.
+Periods, commas, dashes, semicolons, question marks and exclamation points go within quotation marks *only* when they apply to the quoted matter. They go outside quotation marks when they apply to the whole sentence.
 
 **raywenderlich.com**
 When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
