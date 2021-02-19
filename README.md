@@ -634,27 +634,36 @@ Also "the Home screen"
 
 Books use a slightly different style guide than articles do. Here are points to keep in mind when editing books:
 
-**Subheadings**
-
-- It's especially important to have frequent subheadings in books. You don't want readers flipping through page after page of text with no subheading to mark where they area.
-- Subheadings can go down to the fourth level (####) in books, if necessary.
-- Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be in gerund form.
-
 **Ampersands in Titles**
 
 In books, we prefer ampersands to spelling out "and" for titles and subheadings.
 * **Correct**: Data Structures & Algorithms in Swift
 * **Incorrect**: Data Structures and Algorithms in Swift
 
-**Sentence Case for Subheadings**
+**Chapter References**
+When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
 
-We use sentence case for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
-* **Books**: Where to go from here?
-* **Articles**: Where to Go From Here?
+_Example:_ Chapter 15, “Performance Tips and Tricks”.
+
+If you are referring to a chapter in another book, put the chapter name in quotes and the name of the book in italics, like so:
+
+_Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
 **Smart Quotes/Apostrophes**
 
 Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes ('). **Important Excpetion**: The metadata should include straight quotes and apostrophes _only_.
+
+**Subheadings**
+
+It's especially important to have frequent subheadings in books. You don't want readers flipping through page after page of text with no subheading to mark where they area.
+
+Subheadings can go down to the fourth level (####) in books, if necessary.
+
+Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be in gerund form.
+
+We use **sentence case** for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
+* **Books**: Where to go from here?
+* **Articles**: Where to Go From Here?
 
 **Markdown**
 
@@ -668,14 +677,6 @@ Paragraphs can be longer in books than in tutorials. However, be sure that any s
 
 The **Key points** section is always required in book chapters. The **Where to go from here?** section is only needed if the author is suggesting the reader check out a significant number of outside resources.
 
-**Chapter References**
-When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
-
-_Example:_ Chapter 15, “Performance Tips and Tricks”.
-
-Refer to chapters in other books as follows:
-
-_Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
 ## Serial (Oxford) Commas
 
