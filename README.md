@@ -647,7 +647,26 @@ _Example:_ Chapter 15, “Performance Tips and Tricks”.
 
 If you are referring to a chapter in another book, put the chapter name in quotes and the name of the book in italics, like so:
 
-_Example:_ Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
+_Example_: Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
+
+**Links/URLs**
+In books, links need to be repeated once in parentheses and once in brackets; otherwise, they won't render properly in all the book editions. Links in books should not have any anchor text, the link should simply appear in both places.
+
+_Example_: DartPad is a simple browser-based tool for writing and executing Dart code. It’s available at \[dartpad.dev\]\(https://dartpad.dev/).
+
+It's OK for any link to use [bit.ly](https://bitly.com/) to make it easier for the reader to type; long links are required to use it.
+
+**Markdown**
+
+While WordPress uses HTML to mark things like bold style, notes, bulleted lists, and so on, our books use Markdown. For example, WordPress marks subheaders using \<h2\> or \<h3\> but in Markdown, you'd use \## or \###. You can find the tags you need to use in the [Deckle-Flavored Markdown Guide](https://www.raywenderlich.com/codex-users-guide) (pw: tutteam). Google can also help you find any tags that aren't on that list.
+
+**Paragraphs**
+
+Paragraphs can be longer in books than in tutorials. However, be sure that any step-by-step instructions are broken out into lists.
+
+**Required Sections**
+
+The **Key points** section is always required in book chapters. The **Where to go from here?** section is only needed if the author is suggesting the reader check out a significant number of outside resources.
 
 **Smart Quotes/Apostrophes**
 
@@ -664,18 +683,6 @@ Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be i
 We use **sentence case** for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
 * **Books**: Where to go from here?
 * **Articles**: Where to Go From Here?
-
-**Markdown**
-
-While WordPress uses HTML to mark things like bold style, notes, bulleted lists, and so on, our books use Markdown. For example, WordPress marks subheaders using \<h2\> or \<h3\> but in Markdown, you'd use \## or \###. You can find the tags you need to use in the [Deckle-Flavored Markdown Guide](https://www.raywenderlich.com/codex-users-guide) (pw: tutteam).
-
-**Paragraphs**
-
-Paragraphs can be longer in books than in tutorials. However, be sure that any step-by-step instructions are broken out into lists.
-
-**Required Sections**
-
-The **Key points** section is always required in book chapters. The **Where to go from here?** section is only needed if the author is suggesting the reader check out a significant number of outside resources.
 
 
 ## Serial (Oxford) Commas
