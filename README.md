@@ -149,10 +149,12 @@ Apple tends to use the term _outline view_ in its documentation, so that is OK a
 Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
 **emoticons/emojis**
-These are not punctuation; sentences that end with an emoticon still need appropriate punctuation before the emoticon rather than after it. 
+Don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation before the emoticon rather than after it. 
 
 **file extensions**
-either _XXX_ or _.xxx_
+either _XXX_ or _.xxx_. For example, JPG or .zip.
+
+**file system**
 
 **frame rate**
 _FPS_ not _fps_
