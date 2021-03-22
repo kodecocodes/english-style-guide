@@ -86,6 +86,8 @@ Not check box. Note that we don't "tick" checkboxes, since that's British Englis
 
 **client-side**
 
+**codebase**
+
 **code objects**
 Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
 
