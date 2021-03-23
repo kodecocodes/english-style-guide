@@ -59,7 +59,7 @@ Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to clic
 
 When instructing the reader to make changes, bold each object in the process, with the exception of UI elements.
 
-_Example:_ In the hierarchy, select the **SpaceShip** and from the inspector, inside the **Alien Component**, set the **IsDead** property to `false`.
+_Example:_ In the Hierarchy, select the **SpaceShip** and from the inspector, inside the **Alien Component**, set the **IsDead** property to `false`.
 
 Also use the bold style to highlight important concepts that are being introduced for the first time.
 
