@@ -197,7 +197,7 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 * _Placement:_ Insert when the subject moves from one point to another. When in doubt, more subheadings are usually better than fewer. Also, ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers).
 
-* _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example.
+* _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example. Also, one subheading shouldn't follow another without any text between them. For example, if you have an <h2> subheading, there should be some introductory text before the next <h3> subheading.
 
 * _Objects in code tags_: If a heading contains an term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
 
