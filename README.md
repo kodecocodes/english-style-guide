@@ -270,6 +270,8 @@ _Example_:
 
 &lt;/ol&gt;
 
+**livestreaming** and **livestream**, not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
+
 **login, log in**
 "log in" is the verb. You log in to your WordPress account to write your article.
 "login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
