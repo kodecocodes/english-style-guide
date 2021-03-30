@@ -658,11 +658,11 @@ If you are referring to a chapter in another book, put the chapter name in quote
 _Example_: Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
 
 **Links/URLs**
-In books, links need to be repeated once in parentheses and once in brackets; otherwise, they won't render properly in all the book editions. Links in books should not have any anchor text, the link should simply appear in both places.
+In books, links need to be repeated, first in brackets and then in parentheses. Otherwise, the links won't render properly in all the book editions. Links in books should not have any anchor text, the same URL should simply appear in both places.
 
-_Example_: DartPad is a simple browser-based tool for writing and executing Dart code. It’s available at \[dartpad.dev\]\(https://dartpad.dev/).
+_Example_: DartPad is a simple browser-based tool for writing and executing Dart code. It’s available at [https://dartpad.dev/](https://dartpad.dev/).
 
-It's OK for any link to use [bit.ly](https://bitly.com/) to make it easier for the reader to type; long links are required to use it.
+It's OK for any link to use [bit.ly](https://bitly.com/) to make it easier for the reader to type; long links must be shortened with bit.ly.
 
 **Markdown**
 
