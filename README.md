@@ -258,37 +258,30 @@ You _press_ keys, you don't _type_ or _hit_ them.
 
 **lists**
 
-When you have items introduced in an ordered (&lt;ol&gt;) or unordered (&lt;ul&gt;) list, bold (&lt;em&gt; in WordPress) each item, then follow it with a colon and the description. Do not use dashes as separators. Those items should be bolded even if they're code structures that would normally use inline code style. The colon should appear _outside_ the bold formatting.
+When you have items introduced in an ordered (&lt;ol&gt;) or unordered (&lt;ul&gt;) list, bold (&lt;em&gt; in WordPress) each item you introduce, then follow it with a colon and the description. Do not use dashes as separators. Those items should be bolded even if they're code structures that would normally use inline code style. The colon should appear _outside_ the bold formatting.
 
 Each list item should end with punctuation if it's a full sentence or a long sentence fragment. If it's a grocery list of short sentence fragments, do not punctuate. All items in a list should either have, or not have, punctuation. When in doubt, opt for punctuation.
 
-_Example_:
+_Examples_:
 
-&lt;ol&gt;
+Full sentence with punctuation. Take note of the bolded code object:
+1. **TextFormField**: This widget lets you collect user input.
 
-   &lt;li&gt;&lt;em&gt;TextFormField&lt;/em&gt;: This widget lets you collect user input.&lt;/li&gt;
+Long fragment with punctuation:
 
-&lt;/ol&gt;
+In this tutorial, you'll learn about:
+1. Collecting user input.
+2. Processing user input.
+3. Displaying the results.
 
-&lt;ul&gt;
+Short fragment with no punctuation:
 
-   &lt;li&gt;&lt;em&gt;TextFormField&lt;/em&gt;: Lets you collect user input.&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;ul&gt;
-
-   &lt;li&gt;Android&lt;/li&gt;
-   
-   &lt;li&gt;iOS&lt;/li&gt;
-   
-   &lt;li&gt;Server-Side Swift&lt;/li&gt;
-   
-   &lt;li&gt;Flutter&lt;/li&gt;   
-   
-   &lt;li&gt;Unity&lt;/li&gt;   
-
-&lt;/ul&gt;
+raywenderlich.com offers tutorials for the following platforms:
+* iOS
+* Android
+* Flutter
+* Server-Side Swift
+* Unity
 
 **livestreaming** and **livestream**, not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
 
