@@ -655,7 +655,7 @@ Books use a slightly different style guide than articles do. Here are points to 
 
 **Ampersands in Titles**
 
-In books, we prefer ampersands to spelling out "and" for titles.
+In books, we prefer ampersands to spelling out "and" for both book and chapter titles.
 * **Correct**: Data Structures & Algorithms in Swift
 * **Incorrect**: Data Structures and Algorithms in Swift
 
@@ -664,7 +664,7 @@ Subheadings should still spell out "and".
 **Chapter References**
 When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
 
-_Example:_ Chapter 15, “Performance Tips and Tricks”.
+_Example:_ Chapter 15, “Performance Tips & Tricks”.
 
 If you are referring to a chapter in another book, put the chapter name in quotes and the name of the book in italics, like so:
 
