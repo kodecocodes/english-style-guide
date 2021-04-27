@@ -6,46 +6,17 @@ For questions not answered here, follow the [AP style guide](https://www.apstyle
 
 Finally, we use American English spelling and style in our publications. [See the General Style Guidelines](#general-style-guidelines) for resources to tell the difference between American and British English.
 
-## Contributing
-
-To contribute to this guide, please create a new branch for your changes (you can do this right on the GitHub website if you like), make your changes, then open a pull request and request one of the Maintainers to review your PR and merge it.
-
-## General Style Guidelines
-
-**above** and **below**
-In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
-
-**acronyms**
-In general, write out the full term followed by the acronym in parentheses the first time the phrase appears if you are going to use the acronym at least three times in the article or if understanding the acronym is important for your article. After the first use, use the acronym.
-
-_Example_: "Model-View-Viewmodel (MVVM) is a common architecture for app design... In this tutorial, you'll use MVVM to build..."
-
-If an acronym is commonly-used and easily-recognized (i.e., API or HTTP://), don't write out the full term the first time you use it unless doing so is necessary for your article.
-
-Pluralize acronyms by adding a lower-case s to the end, no apostrophe.
-
-_Example_: "Three commonly-used APIs are..."
-
-**American vs. British English**
-Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/). You can also read this [comprehensive guide to British vs. American language](https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English) on Wikipedia.
-
-**apostrophes**
-WordPress needs straight apostrophes (') not curly or smart apostrophes (’). If your editing tool includes curly apostrophes, please make sure you remove them before adding your article to WordPress. The same applies to curly quotation marks.
+## Correct Use of Terms and Phrases
 
 **app**
-Use _app_ instead of _application_, unless _application_ is more clear or refers to a non-iOS or Android, or other mobile entity.
-
-**Apple**
-Use the pronoun *it* to refer to Apple and any other company or organization; do not use *they*.
-
-_Example:_ Apple has its own solution...
+Use _app_ instead of _application_, unless _application_ is more clear or isn't referring to a mobile app.
 
 **as-is**
 
 **back end, back-end, backend**
-"back end" is a noun. You develop the back end. 
-"back-end" functions as a (compound) modifier and is hyphenated before a noun. You are the back-end developer who developed the back end. 
-"backend" is used in the BFF pattern (Backend for Frontend) 
+"back end" is a noun. You develop the back end.
+"back-end" functions as a (compound) modifier and is hyphenated before a noun. You are the back-end developer who developed the back end.
+"backend" is used in the BFF pattern (Backend for Frontend)
 
 You are the back-end developer who used the Backend for Frontend pattern to develop the back end.
 
@@ -54,24 +25,6 @@ You are the back-end developer who used the Backend for Frontend pattern to deve
 
 **Bézier curves**
 
-**bolding**
-Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to click, modify, enter into a text field or otherwise notice. This includes file and directory names, but only those that are the action item of a nearby instruction.
-
-When instructing the reader to make changes, bold each object in the process, with the exception of UI elements.
-
-_Example:_ In the Hierarchy, select the **SpaceShip** and from the inspector, inside the **Alien Component**, set the **IsDead** property to `false`.
-
-Also use the bold style to highlight important concepts that are being introduced for the first time.
-
-Punctuation always goes outside of bold tags. For example, in div notes, you should always use **Note**: not **Note:**.
-
-For bolding in lists, see **lists**.
-
-**book names**
-When you refer to books, italicize their names. 
-
-_Example:_ If you’re new to iOS development and want to learn more, start with _iOS Apprentice_.
-
 **Boolean**
 In honor of George Boole. :]
 
@@ -79,30 +32,16 @@ In honor of George Boole. :]
 Use lowercase and do not bold.
 
 **button**
-Use lowercase, including when instructing the reader to drag one into the scene.
+The word "button" should be lower-case. The name of the button should be upper-case and bold.
 
-**checkbox** 
+_Example_: "Use the **Download Materials** button at the top or bottom of the tutorial..."
+
+**checkbox**
 Not check box. Note that we don't "tick" checkboxes, since that's British English. We either select or check them.
 
 **client-side**
 
 **codebase**
-
-**code objects**
-Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
-
-**colons**
-The first letter of a *complete sentence* following a colon should be capitalized. So both of the following examples are correct:
-* There's one thing you should know: thing.
-* There's one thing you should know: Never lick a frozen signpost.
-
-Colons should never appear inside bold formatting.
-
-**commas**
-We do not use the serial (Oxford) comma. See the Oxford Comma section below for more details.
-
-**contractions**
-In general, we prefer contractions, because they make our writing more informal and conversational. Look for phrases like "you will", "it is", "they are", etc. and replace them with "you'll", "it's," "they're", etc.
 
 **Control-click**
 
@@ -112,22 +51,6 @@ In general, we prefer contractions, because they make our writing more informal 
 _(x, y)_ not _(x,y)_
 
 Note that _coordinate_ refers to one of the group (_the x-coordinate_), while _coordinates_ refers to more than one and usually the entire group (_the GPS coordinates of Cupertino_).
-
-**dashes**
-We use three kinds of dashes in articles. Please make sure you're using the right one for your needs:
-* **em dashes (—)** are used to join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about [em dash usage](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at grammarly.com. 
-* **hyphens (-)** are used to join *words*. *Open-source* and *front-end design* are examples of correct hyphen usage.
-* **en dashes (–)** are slightly shorter than em dashes. They are most commonly used to join spans of time or numbers: i.e., the 1950s–1960s.
-
-**data**
-
-The word is plural. Data are, not data is. Except for Lt. Commander Data. He's singular.
-
-There are a few cases where **data** can be considered a singular, collective noun, when you consider the various pieces of data as a set. E.g.: The data is correct. (The data, as a singular collective unit, is correct.) One gigabyte of data **is** a lot of information to sort through.
-
-**delight**
-
-Please refrain from using this word when talking about UI animations. You’re a better writer than that.
 
 **deselect vs. unselect**
 
@@ -150,29 +73,17 @@ Apple tends to use the term _outline view_ in its documentation, so that is OK a
 **editors**
 Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
-**emoticons/emojis**
-Don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation before the emoticon rather than after it. 
-
-**file extensions**
-either _XXX_ or _.xxx_. For example, JPG or .zip.
-
 **file system**
 
 **frame rate**
 _FPS_ not _fps_
 
 **front end, front-end, frontend**
-"front end" is a noun. You develop the front end. 
-"front-end" functions as a (compound) modifier and is hyphenated before a noun. You are the front-end developer who developed the front end. 
-"frontend" is used in the BFF pattern (Backend for Frontend) 
+"front end" is a noun. You develop the front end.
+"front-end" functions as a (compound) modifier and is hyphenated before a noun. You are the front-end developer who developed the front end.
+"frontend" is used in the BFF pattern (Backend for Frontend)
 
-You are the front-end developer who used the Backend for Frontend pattern to develop the front end. 
-
-**future tense**
-Avoid phrases that have awkward future tenses like "will be verbing". When you can, use the present tense, which tends to be more exciting.
-
-* **Incorrect**: In this tutorial, you'll be learning how to...
-* **Correct**: In this tutorial, you'll learn how to...
+You are the front-end developer who used the Backend for Frontend pattern to develop the front end.
 
 **functions**
 see _code objects_.
@@ -189,11 +100,178 @@ Unless you're specifically referring to a command using the tool, Git should be 
 
 **hard-coded** as an adjective to describe something, but **hard code** when giving an instruction.
 
-**headers**
+**home page**
+
+**ID** not id
+
+**information** not "info"
+
+**internet**
+Not Internet.
+
+**livestreaming** and **livestream**, not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
+
+**login, log in**
+"log in" is the verb. You log in to your WordPress account to write your article.
+"login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
+
+**long-press**
+
+**OK**
+Don't use _okay_ or _Ok_.
+
+**offscreen**
+
+**onscreen**
+
+**open-source**
+
+**playground**
+
+**pop-up** but **popover**
+
+**raywenderlich.com**
+When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
+
+**real-time**
+When used as an adjective: "real-time analytics". **Real time** when used on its own: "We're watching this in real time".
+
+**right-click**
+
+**server-side**
+This includes the name of the Server-Side Swift pillar as well as all other uses.
+
+**setup, set up, set-up**
+
+"Set up" is the verb, where you _set up_ your computer.
+"Setup" is the noun. The Catterwauls have quite a _setup_ in their video studio.
+
+Take care of those first two forms properly and you’ve covered 95% of cases.
+
+"Set-up" is a common adjectival noun: My mobile carrier has a steep _set-up_ fee. But I wouldn’t slap anyone with a trout for using the above noun form instead: a steep _setup_ fee
+
+**TODOs** 
+Not todos or to-dos. And certainly not todo's.
+
+**webpage**
+Note that this is a deviation from AP Style.
+
+**web service**
+Two words, lowercased. 
+
+**website**
+
+**Wi-Fi**
+This is actually a trademark, though usage doesn't require additional decoration.
+
+## Special Characters
+
+**apostrophes**
+
+WordPress needs straight apostrophes (') not curly or smart apostrophes (’). If your editing tool includes curly apostrophes, please make sure you remove them before adding your article to WordPress. The same applies to curly quotation marks.
+
+**menu separators**
+
+We use the "▸" character for menu separators. For example: "File ▸ New ▸ From Template". The use of the backslashes — "File\New\From Template" — has been deprecated. However, please continue to use forward slashes as path separators as in "myproject/assets/puppy.jpg".
+
+```none
+▸
+BLACK RIGHT-POINTING SMALL TRIANGLE
+Unicode: U+25B8, UTF-8: E2 96 B8
+```
+
+**× vs. x**
+When you’re discussing an array, like a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
+
+## Style Guidelines
+
+**above** and **below**
+In situations like these: “Here’s how the above function works” and “Add the below function,” "above" and "below" should follow the noun. So it should be: “Here’s how the function above works...” and “Add the function below...”
+
+**acronyms**
+In general, write out the full term followed by the acronym in parentheses the first time the phrase appears if you are going to use the acronym at least three times in the article or if understanding the acronym is important for your article. After the first use, use the acronym.
+
+_Example_: "Model-View-Viewmodel (MVVM) is a common architecture for app design... In this tutorial, you'll use MVVM to build..."
+
+If an acronym is commonly-used and easily-recognized (i.e., API or HTTP://), don't write out the full term the first time you use it unless doing so is necessary for your article.
+
+Pluralize acronyms by adding a lower-case s to the end, no apostrophe.
+
+_Example_: "Three commonly-used APIs are..."
+
+**American vs. British English**
+Use American English in your articles. If you aren't sure if you're using the right version, you can refer to this [American to British dictionary](http://projectbritain.com/americanbritish/index.html), check a list of common [American vs. British idioms](https://www.italki.com/article/126/up-to-you-or-down-to-you-some-differences-between-british-and-american-english-idioms?hl=en), or paste your text into a [British to American converter](https://www.infoenglish.net/british-to-american-english/). You can also read this [comprehensive guide to British vs. American language](https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English) on Wikipedia.
+
+**Apple**
+Use the pronoun *it* to refer to Apple and any other company or organization; do not use *they*.
+
+_Example:_ Apple has its own solution...
+
+**bolding**
+Use the bold style (&lt;em&gt; in WordPress) for things the reader needs to click, modify, enter into a text field or otherwise notice. This includes file and directory names, but only those that are the action item of a nearby instruction.
+
+When instructing the reader to make changes, bold each object in the process, with the exception of UI elements.
+
+_Example:_ In the Hierarchy, select the **SpaceShip** and from the inspector, inside the **Alien Component**, set the **IsDead** property to `false`.
+
+Also use the bold style to highlight important concepts that are being introduced for the first time.
+
+Punctuation always goes outside of bold tags. For example, in div notes, you should always use **Note**: not **Note:**.
+
+For bolding in lists, see **lists**. For more information, see [Follow Our Formatting Conventions](https://guides.raywenderlich.com/article-author-guide/prepare-to-write/follow-our-formatting-conventions).
+
+**book names**
+When you refer to books, italicize their names.
+
+_Example:_ If you’re new to iOS development and want to learn more, start with _iOS Apprentice_.
+
+**code objects**
+Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
+
+**colons**
+The first letter of a *complete sentence* following a colon should be capitalized. So both of the following examples are correct:
+* There's one thing you should know: thing.
+* There's one thing you should know: Never lick a frozen signpost.
+
+Colons should never appear inside bold formatting.
+
+**commas**
+We do not use the serial (Oxford) comma. See the Oxford Comma section below for more details.
+
+**contractions**
+In general, we prefer contractions, because they make our writing more informal and conversational. Look for phrases like "you will", "it is", "they are", etc. and replace them with "you'll", "it's," "they're", etc.
+
+**dashes**
+We use three kinds of dashes in articles. Please make sure you're using the right one for your needs:
+* **em dashes (—)** join *parts of sentences*. For example, *Learning has never been easier — or more convenient.* Read more about [em dash usage](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/) at grammarly.com.
+* **hyphens (-)** join *words*. *Open-source* and *front-end design* are examples of correct hyphen usage.
+* **en dashes (–)** are slightly shorter than em dashes. They most commonly join spans of time or numbers: i.e., the 1950s–1960s.
+
+**data**
+
+The word is plural. Data are, not data is. Except for Lt. Commander Data. He's singular.
+
+There are a few cases where **data** can be considered a singular, collective noun, when you consider the various pieces of data as a set. E.g.: The data is correct. (The data, as a singular collective unit, is correct.) One gigabyte of data **is** a lot of information to sort through.
+
+**emoticons/emojis**
+These don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation — before the emoticon, not after it. We only ever use :] in tutorials.
+
+_Example:_ Here's a good example! :]
+
+**file extensions**
+either _XXX_ or _.xxx_. For example, JPG or .zip.
+
+**future tense**
+Avoid phrases that have awkward future tenses like "will be verbing". When you can, use the present tense, which tends to be more exciting.
+
+* **Incorrect**: In this tutorial, you'll be learning how to...
+* **Correct**: In this tutorial, you'll learn how to...
+
+**headers** or **subheadings**
 
 * _Casing in articles:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the sentence. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**
 
-* _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word, except for proper nouns. So **Where to go from here?** or **New features in Swift**
+* _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word and proper nouns. So **Where to go from here?** or **New features in Swift**
 
 * _Placement:_ Insert when the subject moves from one point to another. When in doubt, more subheadings are usually better than fewer. Also, ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers).
 
@@ -202,7 +280,7 @@ Unless you're specifically referring to a command using the tool, Git should be 
 * _Objects in code tags_: If a heading contains an term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
 
     * _Incorrect_: &lt;h2&gt;Using <code>spawnEmoji()</code> Without Losing Your Mind&lt;/h2&gt;
-    
+
     * _Correct_: &lt;h2&gt;Using spawnEmoji() Without Losing Your Mind&lt;/h2&gt;
 
 **he/she, he or she**
@@ -214,32 +292,22 @@ Use "them" instead. If you want to go the distance and correct some of the gende
 **his/her, his or her**
 Use "their" instead. If you want to go the distance and correct some of the gender imbalance in this industry, use "her" if you like.
 
-**home page**
-
-**ID** not id.
-
 **inline code**
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 
-`nil`  
-`if` statement  
-`while` loop  
-`if-else`  
-`Int`  
-`enum`  
+`nil`
+`if` statement
+`while` loop
+`if-else`
+`Int`
+`enum`
 `switch` statement
-
-**information**
-Please, not "info". 
 
 **in order to...**
 In almost all cases, "In order to..." can be shortened to "To..." This tightens your prose and saves time for your readers.
 
-**internet**
-Not Internet.
-
 **introductory clauses**
-Be sure to add a comma after [introductory clauses](https://www.grammarly.com/blog/commas-after-introductory-clauses/). Many grammar guides say that the comma is optional for very short introductory clauses, but our style is to always use it. 
+Be sure to add a comma after [introductory clauses](https://www.grammarly.com/blog/commas-after-introductory-clauses/). Many grammar guides say that the comma is optional for very short introductory clauses, but our style is to always use it.
 
 _Examples_: "Now, add the following to..." and "To do that, you'll need to..."
 
@@ -283,24 +351,6 @@ raywenderlich.com offers tutorials for the following platforms:
 * Server-Side Swift
 * Unity
 
-**livestreaming** and **livestream**, not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
-
-**login, log in**
-"log in" is the verb. You log in to your WordPress account to write your article.
-"login" is the adjective (or, if you _really_ must, the noun). "WordPress gives you access to writing tools when it processes your login request."
-
-**long-press**
-
-**menu separators**
-
-We use the "▸" character for menu separators. For example: "File ▸ New ▸ From Template". The use of the backslashes — "File\New\From Template" — has been deprecated. However, please continue to use forward slashes as path separators as in "myproject/assets/puppy.jpg".
-
-```none
-▸
-BLACK RIGHT-POINTING SMALL TRIANGLE
-Unicode: U+25B8, UTF-8: E2 96 B8
-```
-
 **methods**
 see _code objects_.
 
@@ -315,36 +365,17 @@ _Examples_: 10; 25,000; 30%; divide 15 by 3; Chapter 6; Highway 4; Room 2.
 
 Numbers in series should be consistent.
 
-_Example_: She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.  
+_Example_: She went to five countries on four continents in sixteen days _OR_ She went to 5 countries on 4 continents in 16 days.
 _Example_: The final score was 13–1 _OR_ The final score was thirteen to one.
 
 _Note_: There are a lot of exceptions to these basic rules, so use your best judgment.
 
-**OK**
-Don't use _okay_ or _Ok_.
-
-**offscreen**
-
-**onscreen**
-
-**open-source**
-
-**paragraph tags**
-We don't need paragraph tags (\<p\>) in our articles. Wordpress renders without them. They can cause problems, so please make sure to remove any you find.
-
-**parentheses**
-Edit out parentheses in prose whenever possible. Remember, parentheses tell the reader, “I don’t mind if you read over this.” Do you mind if they read over it? 
-
-**playground**
-
 **pluralization**
-For acronyms such as API, no apostrophe is necessary as per AP style.
+For acronyms like "API", don't use an apostrophe to make them plural, as per AP style.
 
 Wrong: API’s
 
 Right: APIs
-
-**pop-up** but **popover**
 
 **possessive**
 To make a word ending in "s" possessive, add "'s". For example: "The class's name".
@@ -356,34 +387,8 @@ see _code objects_.
 
 Periods, commas, dashes, semicolons, question marks and exclamation points go within quotation marks *only* when they apply to the quoted matter. They go outside quotation marks when they apply to the whole sentence.
 
-**raywenderlich.com**
-When referring to the website or our tutorials, refer to it as "raywenderlich.com" in all lower case. Not mixed case (RayWenderlich) or two words (Ray Wenderlich).
-
-**real-time** when used as an adjective: "real-time analytics". **real time** when used on its own: "we're watching this in real time".
-
-**right-click**
-
 **screen gestures**
 You _tap_ something on a screen, you don't _click_, _touch_ or _press_ it; the only exception to this is a _long press_ on an object on the phone's screen.
-
-**server-side**
-
-This includes the name of the Server-Side Swift pillar as well as all other uses.
-
-**setup, set up, set-up**
-
-"Set up" is the verb, where you _set up_ your computer.
-"Setup" is the noun. The Catterwauls have quite a _setup_ in their video studio.
-
-Take care of those first two forms properly and you’ve covered 95% of cases.
-
-"Set-up" is a common adjectival noun: My mobile carrier has a steep _set-up_ fee. But I wouldn’t slap anyone with a trout for using the above noun form instead: a steep _setup_ fee
-
-**TODOs** 
-Not todos or to-dos. And certainly not todo's.
-
-**up**
-Don't use "up" as an adverb unless it is absolutely necessary. For example, "open up" can almost always be shortened to "open."
 
 **URL**
 Write URLs in lowercase, and leave off the leading www if possible: raywenderlich.com. You don't need to add special formatting (i.e., bold or inline code) when the website is part of the main body text.
@@ -391,20 +396,34 @@ Write URLs in lowercase, and leave off the leading www if possible: raywenderlic
 **variables**
 see _code objects_.
 
-**webpage**
-Note that this is a deviation from AP Style.
+## Things to Avoid
 
-**web service**
-Two words, lowercased. 
+**abbreviations**
+Don't abbreviate words like "info" for "information" or "congrats" for "congratulations". The abbreviations might not be understood by ESL readers and they look too informal.
 
-**website**
+**delight**
+Please refrain from using this word when talking about UI animations. You’re a better writer than that.
 
-**Wi-Fi**
-This is actually a trademark, though usage doesn't require additional decoration.
+**up**
+Don't use "up" as an adverb unless it is absolutely necessary. For example, "open up" can almost always be shortened to "open." The same goes for other filler words, like "on" in "click on".
 
-**× vs. x**
+## Serial (Oxford) Commas
 
-When you’re discussing a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
+We do not use the Oxford comma in our tutorials.
+
+An example of the serial comma in use: "Ray wrote three posts, two product reviews, and a scathing exposé on Android." The comma before "and a scathing..." is the serial comma.
+
+The preferred practice is to remove the final comma in the list of elements (the one usually before the 'and', 'or' or 'nor' ): "Ray wrote three posts, two product reviews and a scathing exposé on Android."
+
+However, retain the extra comma when necessary to avoid ambiguity: "Ray loves his employees, Tim Cook and Steve Ballmer." Well, we're pretty sure Tim Cook and Steve Ballmer don't work for Ray (just yet), so leave the comma in to be clear: "Ray loves his employees, Tim Cook, and Steve Ballmer."
+
+But beware - the presence of AND following a comma does not imply a serial comma is in use: "Ray continues to throw fits when he sees a serial comma in use, and it's really nerve-wracking for editors to see their fearless leader in such a despondent state." Here you have two independent clauses that could be written as two separate sentences without losing meaning: "Ray continues to throw fits when he sees a serial comma in use. It's really nerve-wracking for editors to see their fearless leader in such a despondent state." However, the two share a common idea or thread and you can join them with a comma and a conjunction, as I did above.
+
+**paragraph tags**
+We don't use paragraph tags (\<p\>) in our tutorials. They can cause problems with rendering, so please make sure to remove any you find.
+
+**parentheses**
+Edit out parentheses in prose whenever possible. Remember, parentheses tell the reader, “I don’t mind if you read over this.” Do you mind if they read over it? 
 
 ## iOS Terms and Capitalization
 
@@ -704,16 +723,3 @@ Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be i
 We use **sentence case** for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
 * **Books**: Where to go from here?
 * **Articles**: Where to Go From Here?
-
-
-## Serial (Oxford) Commas
-
-In general, digital copy looks best when the serial comma is NOT used. This is the general direction followed by several (but not all!) modern style manuals.
-
-An example of the serial comma in use: "Ray wrote three posts, two product reviews, and a scathing exposé on Android."
-
-The preferred practice is to remove the final comma in the list of elements (the one usually before the 'and', 'or' or 'nor' ): "Ray wrote three posts, two product reviews and a scathing exposé on Android."
-
-However, retain the extra comma when necessary to avoid ambiguity: "Ray loves his employees, Tim Cook and Steve Ballmer." Well, we're pretty sure Tim Cook and Steve Ballmer don't work for Ray (just yet), so leave the comma in to be clear: "Ray loves his employees, Tim Cook, and Steve Ballmer."
-
-But beware - the presence of AND following a comma does not imply a serial comma is in use: "Ray continues to throw fits when he sees a serial comma in use, and it's really nervewracking for editors to see their fearless leader in such a despondent state." Here you have two independent clauses that could be written as two separate sentences without losing meaning: "Ray continues to throw fits when he sees a serial comma in use. It's really nervewracking for editors to see their fearless leader in such a despondent state." However, the two share a common idea or thread and you can join them with a comma and a conjunction as I did above.
