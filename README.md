@@ -4,7 +4,18 @@ This English Style Guide provides guidance for spelling, capitalization, and usa
 
 For questions not answered here, follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). 
 
-Finally, we use American English spelling and style in our publications. [See the General Style Guidelines](#general-style-guidelines) for resources to tell the difference between American and British English.
+Finally, we use American English spelling and style in our publications. See the **Americal English** section below for resources to tell the difference between American and British English.
+
+## Table of Contents
+ - [General Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#general-terms-and-capitalization)
+ - [Special Characters](https://github.com/raywenderlich/english-style-guide#special-characters)
+ - [General Style Guidelines](https://github.com/raywenderlich/english-style-guide#style-guidelines)
+ - [Things to Avoid](https://github.com/raywenderlich/english-style-guide#things-to-avoid)
+ - [iOS Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#ios-terms-and-capitalization)
+ - [Android Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#android-terms-and-capitalization) 
+ - [Unity Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#unity-style-and-capitalization)
+ - [Apple Watch Style Guidelines](https://github.com/raywenderlich/english-style-guide#apple-watch-style-guidelines)
+ - [Book Chapter Style Guide](https://github.com/raywenderlich/english-style-guide#book-chapter-style-guide)
 
 ## General Terms and Capitalization
 
@@ -204,7 +215,7 @@ Unicode: U+25B8, UTF-8: E2 96 B8
 **× vs. x**
 When you’re discussing an array, like a 10×10 array, use the typographically correct multiplication symbol **×**, as opposed to the letter **x** or, worse, **X**.
 
-## Style Guidelines
+## General Style Guidelines
 
 **above** and **below**
 
@@ -642,7 +653,7 @@ Not _watch app_ or _Watch App_.
 
 No "the" before it.
 
-## Unity Style and Capitalization
+## Unity Terms and Capitalization
 
 **animated GIFs**
 
