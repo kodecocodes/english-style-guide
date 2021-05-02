@@ -23,10 +23,6 @@ Finally, we use American English spelling and style in our publications. See the
 
 Use _app_ instead of _application_, unless _application_ is more clear or isn't referring to a mobile app.
 
-**article** vs. **tutorial**
-
-Our internal guideline is to use "article" for our free online text tutorials and "tutorial" for all of our content. Many of our books and videos are also tutorials, after all. However, you can still use the term "tutorial" when you're writing an article. For example, it's fine to write: "In this tutorial, you'll learn all about using animations in your app..."
-
 **as-is**
 
 **back end, back-end, backend**
@@ -246,6 +242,10 @@ Use American English in your articles. If you aren't sure if you're using the ri
 Use the pronoun *it* to refer to Apple and any other company or organization; do not use *they*.
 
 _Example:_ Apple has its own solution...
+
+**article** vs. **tutorial**
+
+Our internal guideline is to use "article" for our free online text tutorials and "tutorial" for all of our content. Many of our books and videos are also tutorials, after all. However, you can still use the term "tutorial" when you're writing an article. For example, it's fine to write: "In this tutorial, you'll learn all about using animations in your app..."
 
 **bolding**
 
