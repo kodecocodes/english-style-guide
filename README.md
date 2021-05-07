@@ -351,11 +351,17 @@ Use "their" instead. If you want to go the distance and correct some of the gend
 Use the inline code style (&lt;code&gt; in WordPress) for all class, function and method names. Remember to use it for these words:
 
 `nil`
+
 `if` statement
+
 `while` loop
+
 `if-else`
+
 `Int`
+
 `enum`
+
 `switch` statement
 
 **in order to...**
