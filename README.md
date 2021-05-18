@@ -4,7 +4,7 @@ This English Style Guide provides guidance for spelling, capitalization, and usa
 
 For questions not answered here, follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). 
 
-Finally, we use American English spelling and style in our publications. See the **Americal English** section below for resources to tell the difference between American and British English.
+Finally, we use American English spelling and style in our publications. See the **American English** section below for resources to tell the difference between American and British English.
 
 ## Table of Contents
  - [General Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#general-terms-and-capitalization)
