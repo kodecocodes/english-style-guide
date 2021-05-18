@@ -130,6 +130,10 @@ _Example_: Remember to hard code the hard-coded code into your code.
 
 **home page**
 
+**hot reload** and **hot restart**
+
+Use lowercase and do not bold.
+
 **ID** not id
 
 **information** not "info"
