@@ -51,6 +51,8 @@ Use lowercase and do not bold.
 
 The word "button" should be lower-case. The name of the button should be upper-case and bold.
 
+We don't "hit" buttons (or at least, we don't _recommend_ hitting them; what you do in your own office is up to you! :] ). On screens, we **tap** buttons, on computers, we **click** them. For example, on iOS, we **tap** buttons and on macOS, we **click** them. We **press** keys and key combinations.
+
 _Example_: "Use the **Download Materials** button at the top or bottom of the tutorial..."
 
 **checkbox**
