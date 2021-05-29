@@ -96,6 +96,10 @@ Apple tends to use the term _outline view_ in its documentation, so that is OK a
 
 Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
+**enter** versus **return** keys
+
+On Windows, **enter** and **return** keys are synonymous; on the Mac, they are two different keys.
+
 **file system**
 
 **frame rate**
