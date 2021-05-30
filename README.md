@@ -277,6 +277,14 @@ When you refer to books, italicize their names.
 
 _Example:_ If you’re new to iOS development and want to learn more, start with _iOS Apprentice_.
 
+**captions**
+
+Image captions are treated much like lists: You use punctuation if it's a sentence or longer sentence fragment. You leave it off if it's a single word or short phrase.
+
+The following examples are both correct (punctuation-wise, at least!):
+* **Example 1**: Xcode panel with your code.
+* **Example 2**: Xcode panel
+
 **code objects**
 
 Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
@@ -315,6 +323,10 @@ There are a few cases where **data** can be considered a singular, collective no
 These don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation — before the emoticon, not after it. We only ever use :] in tutorials.
 
 _Example:_ Here's a good example! :]
+
+**exclamation marks**
+
+Exclamation marks should be used sparingly: no more than once per sentence or paragraph. And not in too many consecutive paragraphs.
 
 **file extensions**
 
