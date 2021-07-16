@@ -351,7 +351,7 @@ Avoid phrases that have awkward future tenses like "will be verbing". When you c
 
 * _Structure_: Whenever possible, headers should start with gerunds: verbs in their _-ing_ form. So **Checking Your Code** rather than **Check Your Code**, for example. Also, one subheading shouldn't follow another without any text between them. For example, if you have an \<h2\> subheading, there should be some introductory text before the next \<h3\> subheading.
 
-* _Objects in code tags_: If a heading contains an term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
+* _Objects in code tags_: If a heading contains a term that usually uses inline code tags, preserve the term as written but do *not* use the code tags in the header.
 
     * _Incorrect_: &lt;h2&gt;Using <code>spawnEmoji()</code> Without Losing Your Mind&lt;/h2&gt;
 
