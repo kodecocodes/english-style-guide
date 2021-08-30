@@ -828,7 +828,7 @@ The **Key points** section is always required in book chapters. The **Where to g
 
 **Smart Quotes/Apostrophes**
 
-Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes ('). **Important Excpetion**: The metadata should include straight quotes and apostrophes _only_.
+Books use smart quotes and apostrophes (’), whereas articles in Wordpress need straight quotes and apostrophes ('). **Important Exception**: The metadata should include straight quotes and apostrophes _only_.
 
 **Subheadings**
 
