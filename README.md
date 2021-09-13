@@ -808,9 +808,9 @@ _Example_: Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book
 
 **Links/URLs**
 
-In books, links need to be repeated, first in brackets and then in parentheses. Otherwise, the links won't render properly in all the book editions. Links in books should not have any anchor text, the same URL should simply appear in both places.
+In books, the anchor text should appear in brackets and the URL in parentheses. The anchor text should be short, just highlighting a main keyword.
 
-_Example_: DartPad is a simple browser-based tool for writing and executing Dart code. It’s available at [https://dartpad.dev/](https://dartpad.dev/).
+_Example_: [DartPad](https://dartpad.dev/) is a simple browser-based tool for writing and executing Dart code.
 
 It's OK for any link to use [bit.ly](https://bitly.com/) to make it easier for the reader to type; long links must be shortened with bit.ly.
 
