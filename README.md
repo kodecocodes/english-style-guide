@@ -57,7 +57,7 @@ _Example_: "Use the **Download Materials** button at the top or bottom of the tu
 
 **cancel** and related terms
 
-The American spelling of the various forms of **cancel** is... weird. To keep it straight, here is a list of the correct number of "l"s to use:
+The American spelling of the various forms of **cancel** is... weird. To keep it straight, here's a list of terms related to "cancel" with the correct number of "l"s to use in each:
 
 - canceled
 - canceler
