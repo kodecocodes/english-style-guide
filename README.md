@@ -55,6 +55,15 @@ We don't "hit" buttons (or at least, we don't _recommend_ hitting them; what you
 
 _Example_: "Use the **Download Materials** button at the top or bottom of the tutorial..."
 
+**cancel** and related terms
+
+The American spelling of the various forms of **cancel** is... weird. To keep it straight, here is a list of the correct number of "l"s to use:
+
+- canceled
+- canceler
+- canceling
+- cancellation
+
 **checkbox**
 
 Not check box. Note that we don't "tick" checkboxes, since that's British English. We either select or check them.
