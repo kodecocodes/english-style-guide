@@ -294,6 +294,22 @@ The following examples are both correct (punctuation-wise, at least!):
 * **Example 1**: Xcode panel with your code.
 * **Example 2**: Xcode panel
 
+**citing sources**
+
+When you quote someone either directly or indirectly in your text, introduce the person by their first and last name, followed by their job title or another reason why the reader should be interested in what they have to say on the topic. 
+
+* **Example 1**: Ray Wenderlich, co-founder of raywenderlich.com, said, "When I started as an indie iOS developer, I was so excited and so motivated."
+* **Example 2**: Ray Wenderlich, cou-founder of raywenderlich.com, said he was excited and motivated when he started as an indie iOS developer.
+
+If appropriate, link to a bio or other relevant, non-commercial page so the reader can look up more information.
+
+* **Good**: Ray Wenderlich, co-founder of [raywenderlich.com](https://www.raywenderlich.com/u/rwenderlich), said, "When I started as an indie iOS developer, I was so excited and so motivated." (Note how the link goes to Ray's bio.)
+* **Bad**: Ray Wenderlich, co-founder of [raywenderlich.com](https://www.amazon.com/s?i=stripbooks&rh=p_27%3Araywenderlich+Tutorial+Team&s=relevancerank&text=raywenderlich+Tutorial+Team&ref=dp_byline_sr_book_1), said, "When I started as an indie iOS developer, I was so excited and so motivated." (Note how the link goes to Amazon, a commmercial site that doesn't tell the reader more about Ray's experience.)
+
+Upon further mentions in the same text, refer to the subject by last name only.
+
+* **Example 3**: Wenderlich then went on to say that setting up an accountability system helped to fire up his enthusiasm.
+
 **code objects**
 
 Methods, functions, protocols, classes, structs, variables and so on — those things that are properly marked inline as code — are treated as proper nouns. "Add the following to `generateLotteryTicket()`:", not "Add the following to the `generateLotteryTicket()` method".
