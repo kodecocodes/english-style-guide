@@ -68,6 +68,10 @@ The American spelling of the various forms of **cancel** is... weird. To keep it
 
 Not check box. Note that we don't "tick" checkboxes, since that's British English. We either select or check them.
 
+**check mark**
+
+Not checkmark.
+
 **client-side**
 
 **codebase**
