@@ -821,7 +821,7 @@ In books, the anchor text should appear in brackets and the URL in parentheses. 
 
 _Example_: [DartPad](https://dartpad.dev/) is a simple browser-based tool for writing and executing Dart code.
 
-It's OK for any link to use [bit.ly](https://bitly.com/) to make it easier for the reader to type; long links must be shortened with bit.ly.
+Use [bit.ly](https://bitly.com/) to shorten long links. You can use bit.ly for any link, but it's a requirement for long ones.
 
 **Markdown**
 
