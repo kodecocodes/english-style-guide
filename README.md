@@ -867,6 +867,9 @@ Subheadings in books can go down to the fourth level (####) in books, if necessa
 
 Subheadings that introduce a concept like, "The MVVM Pattern" don't need to be in gerund form.
 
-We use **sentence case** for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.
-* **Books**: Where to go from here?
-* **Articles**: Where to Go From Here?
+<strike>We use **sentence case** for subheadings in books, whereas articles use Title Case. That means that only the first letter and proper nouns are capitalized in book subheadings.</strike>
+
+We are transitioning from sentence case to title case for subheadings in books. For any **new books** or **updates** kicking off after **October 1, 2021**, please use Title Case. That means that any words with four or more characters, plus any "important" words like nouns and verbs, should be capitalized. Any books that are already being written or updated should continue to use sentence case until their next update.
+
+* **Books Kicking Off After Oct. 1, 2021**: Where to Go From Here?
+* **Books That Kicked Off Before Oct. 1, 2021**: Where to go from here?
