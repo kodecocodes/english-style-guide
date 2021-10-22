@@ -531,7 +531,7 @@ Avoid these whenever possible. Keep the focus on the reader by using **you**, **
 
 Don't use "up" as an adverb unless it is absolutely necessary. For example, "open up" can almost always be shortened to "open." The same goes for other filler words, like "on" in "click on".
 
-Serial (Oxford) Commas
+**Serial (Oxford) Commas**
 
 We do not use the Oxford comma in our tutorials.
 
