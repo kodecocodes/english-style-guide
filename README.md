@@ -827,9 +827,11 @@ Subheadings should still spell out "and".
 
 **Chapter References**
 
-When referring to chapters in the same book, give the chapter number and place the chapter title in quotes: 
+When referring to chapters in the book you're editing, give the chapter number and place the chapter title in quotes: 
 
 _Example:_ Chapter 15, “Performance Tips & Tricks”.
+
+You should not use bold or italic styles for book chapter references.
 
 If you are referring to a chapter in another book, put the chapter name in quotes and the name of the book in italics, like so:
 
