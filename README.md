@@ -347,9 +347,9 @@ The word is plural. Data are, not data is. Except for Lt. Commander Data. He's s
 
 There are a few cases where **data** can be considered a singular, collective noun, when you consider the various pieces of data as a set. E.g.: The data is correct. (The data, as a singular collective unit, is correct.) One gigabyte of data **is** a lot of information to sort through.
 
-**emoticons/emojis**
+**emoticons/emojis in tutorials**
 
-These don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation — before the emoticon, not after it. We only ever use :] in tutorials.
+These don't replace punctuation. Sentences that end with an emoticon still need appropriate punctuation — before the emoticon, not after it. The only emoticon that's appropriate to use in tutorials is: :]
 
 _Example:_ Here's a good example! :]
 
@@ -836,6 +836,10 @@ You should not use bold or italic styles for book chapter references.
 If you are referring to a chapter in another book, put the chapter name in quotes and the name of the book in italics, like so:
 
 _Example_: Check out the “Doing Cool Stuff” chapter of _Ray’s Awesome Book_.
+
+**emoticons/emojis in books**
+
+Emoticons should be used _extremely_ sparingly in books — best is not to use them at all. As with tutorials, only the :] emoticon may be used in books.
 
 **Links/URLs**
 
