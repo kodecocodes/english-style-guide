@@ -113,6 +113,8 @@ Use lowercase; e.g. _assistant editor_, _standard editor_, _scene editor_.
 
 On Windows, **enter** and **return** keys are synonymous; on the Mac, they are two different keys.
 
+**ePub**
+
 **file system**
 
 **frame rate**
