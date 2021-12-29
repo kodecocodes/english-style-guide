@@ -376,7 +376,7 @@ Avoid phrases that have awkward future tenses like "will be verbing". When you c
 
 * _Casing in articles:_ Capitalize headers, leaving any article, preposition or coordinating conjunction that is three letters or less lowercase, unless it is the first word in the sentence. For example, it is important to capitalize the verb _Go_ but _not_ the word _to_ in **Where to Go From Here?**
 
-* _Casing in books:_ Use sentence casing by capitalizing only the first letter of the first word and proper nouns. So **Where to go from here?** or **New features in Swift**
+* _Casing in books:_ Use title casing in books as well. So **Where to Go From Here?** or **New Features in Swift**
 
 * _Placement:_ Insert when the subject moves from one point to another. When in doubt, more subheadings are usually better than fewer. Also, ensure that if H2 and H3 headers are used, they are nested appropriately. For example, there's no point in having a single H2 and then seventeen H3 headings for the rest of the article. For standards on H2, H3 and bolding in headers, [see our formatting guide.](https://guides.raywenderlich.com/article-author-guide/finish-up/format-your-article#headers).
 
