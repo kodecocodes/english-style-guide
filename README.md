@@ -13,7 +13,7 @@ Finally, we use American English spelling and style in our publications. See the
  - [Things to Avoid](https://github.com/raywenderlich/english-style-guide#things-to-avoid)
  - [iOS Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#ios-terms-and-capitalization)
  - [Android Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#android-terms-and-capitalization) 
- - [Unity Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#unity-style-and-capitalization)
+ - [Game Technology Terms and Capitalization](https://github.com/raywenderlich/english-style-guide/edit/master/README.md#game-technology-terms-and-capitalization)
  - [Apple Watch Style Guidelines](https://github.com/raywenderlich/english-style-guide#apple-watch-style-guidelines)
  - [Book Chapter Style Guide](https://github.com/raywenderlich/english-style-guide#book-chapter-style-guide)
 
@@ -464,7 +464,7 @@ raywenderlich.com offers tutorials for the following platforms:
 * Android
 * Flutter
 * Server-Side Swift
-* Unity
+* Game Technology
 
 **methods** — see _code objects_.
 
@@ -716,7 +716,7 @@ Not _watch app_ or _Watch App_.
 
 No "the" before it.
 
-## Unity Terms and Capitalization
+## Game Technology Terms and Capitalization
 
 **animated GIFs**
 
