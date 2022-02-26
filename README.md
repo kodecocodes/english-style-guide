@@ -847,7 +847,7 @@ Emoticons should be used _extremely_ sparingly in books — best is not to use t
 
 In books, the anchor text should appear in brackets and the URL in parentheses. The anchor text should be short, just highlighting a main keyword.
 
-_Example_: [DartPad](https://dartpad.dev/) is a simple browser-based tool for writing and executing Dart code.
+_Example_: \[DartPad]\(https://dartpad.dev/) is a simple browser-based tool for writing and executing Dart code.
 
 Use [bit.ly](https://bitly.com/) to shorten long links. You can use bit.ly for any link, but it's a requirement for long ones.
 
