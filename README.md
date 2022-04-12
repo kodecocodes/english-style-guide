@@ -86,12 +86,12 @@ _(x, y)_ not _(x,y)_
 
 Note that _coordinate_ refers to one of the group (_the x-coordinate_), while _coordinates_ refers to more than one and usually the entire group (_the GPS coordinates of Cupertino_).
 
-**deselect vs. unselect**
-
-If you are talking about removing a check from a checkbox, use "deselect". "Unselect" is incorrect. "Unselected" can be used for an option that hasn't been checked.
+**deselect vs. unselect**: If you are talking about removing a check from a checkbox, use "deselect". "Unselect" is incorrect. "Unselected" can be used for an option that hasn't been checked.
 
 * **Correct**: Scroll down to the newsletter options and deselect "Opt-In".
 * **Correct**: Because the user hasn't completed the form, "Opt-Out" is still unselected.
+
+**dialog box**: Not "dialogue box".
 
 **document outline**
 
