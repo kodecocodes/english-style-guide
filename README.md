@@ -161,7 +161,7 @@ Use lowercase and do not bold.
 
 **key-value pair** not "key/value pair".
 
-**livestreaming** and **livestream** not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
+**livestreaming**, **livestreamed** and **livestream** not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
 
 **login, log in**
 
