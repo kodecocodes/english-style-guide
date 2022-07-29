@@ -13,7 +13,7 @@ Finally, we use American English spelling and style in our publications. See the
  - [Things to Avoid](https://github.com/raywenderlich/english-style-guide#things-to-avoid)
  - [iOS Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#ios-terms-and-capitalization)
  - [Android Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#android-terms-and-capitalization) 
- - [Game Technology Terms and Capitalization](https://github.com/raywenderlich/english-style-guide/edit/master/README.md#game-technology-terms-and-capitalization)
+ - [Game Technology Terms and Capitalization](https://github.com/raywenderlich/english-style-guide#game-technology-terms-and-capitalization)
  - [Apple Watch Style Guidelines](https://github.com/raywenderlich/english-style-guide#apple-watch-style-guidelines)
  - [Book Chapter Style Guide](https://github.com/raywenderlich/english-style-guide#book-chapter-style-guide)
 
