@@ -2,7 +2,7 @@
 
 This English Style Guide provides guidance for spelling, capitalization, and usage of common terms. All authors and editors should use this guide so that our articles are consistent site-wide. It's a good idea to skim through this guide before starting any new article, update, or edit as this document evolves continuously.
 
-For questions not answered here, follow the [AP style guide](https://www.apstylebook.com/) and the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). 
+For questions not answered here, follow the [AP style guide](https://www.apstylebook.com/) and the style guide for your platform, like the [Apple Style Guide](http://help.apple.com/applestyleguide/#/). For spelling questions, we use [Merriam-Webster](https://www.merriam-webster.com/).
 
 Finally, we use American English spelling and style in our publications. See the **American English** section below for resources to tell the difference between American and British English.
 
@@ -363,6 +363,12 @@ Exclamation marks should be used sparingly: no more than once per sentence or pa
 
 either _XXX_ or _.xxx_. For example, JPG or .zip.
 
+**first-person language**
+
+We generally avoid unnecessary use of first-person language, such as "next, we'll look at some code" or "let's go ahead and add a function". The exception to this rule is when you are adding helpful, first-hand experience. We encourage doing this whenever possible.
+
+For example, in a book about landing a mobile dev job, the author saying, "When I hire new employees, I look for..." is extremely valuable information for the reader. It establishes the author's authority and sets them apart from inexperienced writers. Please do this whenever applicable.
+
 **functions** — see _code objects_.
 
 **future tense**
@@ -527,7 +533,7 @@ Please refrain from using this word when talking about UI animations. You’re a
 
 **let's** as well as other first-person terms (**I**, **we**, etc.)
 
-Avoid these whenever possible. Keep the focus on the reader by using **you**, **your**, etc.
+Avoid these whenever possible, except when you are sharing applicable first-hand experience, as described above. Otherwise, keep the focus on the reader by using **you**, **your**, etc.
 
 **up**
 
