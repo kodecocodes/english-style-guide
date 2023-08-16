@@ -161,6 +161,10 @@ Use lowercase and do not bold.
 
 **key-value pair** not "key/value pair".
 
+**Kodeco** 
+
+When referring to the company or content we no longer use ".com" as we did on the old site. So it would be "You can find this article on Kodeco", "We at Kodeco can't wait for you to learn with our content" etc.
+
 **livestreaming**, **livestreamed** and **livestream** not live-streaming or live-stream, per the [AP Style Guide](https://www.facebook.com/apstylebook/posts/our-style-is-livestream-and-livestreaming-one-word-in-all-uses/1526312494058498/).
 
 **login, log in**
