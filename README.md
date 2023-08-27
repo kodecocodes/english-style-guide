@@ -857,7 +857,7 @@ Emoticons should be used _extremely_ sparingly in books — best is not to use t
 
 **Links/URLs**
 
-In books, the anchor text should appear in brackets and the URL in parentheses. The anchor text should be short, just highlighting a main keyword.
+In books, the anchor text should appear in brackets and the URL in parentheses. The anchor text should be short, just highlighting a main keyword or short phrase.
 
 _Example_: \[DartPad]\(https://dartpad.dev/) is a simple browser-based tool for writing and executing Dart code.
 
