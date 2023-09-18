@@ -336,7 +336,8 @@ Colons should never appear inside bold formatting.
 
 **commas**
 
-We do not use the serial (Oxford) comma. See the Oxford Comma section below for more details.
+~~We do not use the serial (Oxford) comma. See the Oxford Comma section below for more details.~~
+For all new content and updates kicked off after September 18, 2023, we **do** use the Oxford comma.
 
 **contractions**
 
@@ -547,7 +548,17 @@ Don't use "up" as an adverb unless it is absolutely necessary. For example, "ope
 
 **Serial (Oxford) Commas**
 
-We do not use the Oxford comma in our tutorials.
+The serial (Oxford) comma is the final comma in a list, usually placed before "and" or "or".
+
+An example of the serial comma in use: "Ray wrote three posts, two product reviews, and a scathing exposé on Android." The comma before "and a scathing..." is the serial comma.
+
+For all content kicked off on or after September 18, 2023, we **do** use the Oxford comma. If your project kicked off before that date, please continue to not use the Oxford comma; we'll change it during the next update.
+
+For example:
+- You are working on an article whose writing phase started on September 20, 2023: **Please use the Oxford comma**.
+
+
+~~We do not use the Oxford comma in our tutorials.
 
 An example of the serial comma in use: "Ray wrote three posts, two product reviews, and a scathing exposé on Android." The comma before "and a scathing..." is the serial comma.
 
@@ -555,7 +566,7 @@ The preferred practice is to remove the final comma in the list of elements (the
 
 However, retain the extra comma when necessary to avoid ambiguity: "Ray loves his employees, Tim Cook and Steve Ballmer." Well, we're pretty sure Tim Cook and Steve Ballmer don't work for Ray (just yet), so leave the comma in to be clear: "Ray loves his employees, Tim Cook, and Steve Ballmer."
 
-But beware - the presence of AND following a comma does not imply a serial comma is in use: "Ray continues to throw fits when he sees a serial comma in use, and it's really nerve-wracking for editors to see their fearless leader in such a despondent state." Here you have two independent clauses that could be written as two separate sentences without losing meaning: "Ray continues to throw fits when he sees a serial comma in use. It's really nerve-wracking for editors to see their fearless leader in such a despondent state." However, the two share a common idea or thread and you can join them with a comma and a conjunction, as I did above.
+But beware - the presence of AND following a comma does not imply a serial comma is in use: "Ray continues to throw fits when he sees a serial comma in use, and it's really nerve-wracking for editors to see their fearless leader in such a despondent state." Here you have two independent clauses that could be written as two separate sentences without losing meaning: "Ray continues to throw fits when he sees a serial comma in use. It's really nerve-wracking for editors to see their fearless leader in such a despondent state." However, the two share a common idea or thread and you can join them with a comma and a conjunction, as I did above.~~
 
 **paragraph tags**
 
